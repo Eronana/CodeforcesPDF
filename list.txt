@@ -1,0 +1,571 @@
+README.md
+list.txt
+
+[001-100]:
+[001]Codeforces Beta Round #1.pdf
+[002]Codeforces Beta Round #2.pdf
+[003]Codeforces Beta Round #3.pdf
+[004]Codeforces Beta Round #4 (Div. 2 Only).pdf
+[005]Codeforces Beta Round #5.pdf
+[006]Codeforces Beta Round #6 (Div. 2 Only).pdf
+[007]Codeforces Beta Round #7.pdf
+[008]Codeforces Beta Round #8.pdf
+[009]Codeforces Beta Round #9 (Div. 2 Only).pdf
+[010]Codeforces Beta Round #10.pdf
+[011]Codeforces Beta Round #11.pdf
+[012]Codeforces Beta Round #12 (Div 2 Only).pdf
+[013]Codeforces Beta Round #13.pdf
+[014]Codeforces Beta Round #14 (Div. 2).pdf
+[015]Codeforces Beta Round #15.pdf
+[016]Codeforces Beta Round #16 (Div. 2 Only).pdf
+[017]Codeforces Beta Round #17.pdf
+[018]Codeforces Beta Round #18 (Div. 2 Only).pdf
+[019]Codeforces Beta Round #19.pdf
+[020]Codeforces Alpha Round #20 (Codeforces format).pdf
+[021]Codeforces Alpha Round #21 (Codeforces format).pdf
+[022]Codeforces Beta Round #22 (Div. 2 Only).pdf
+[023]Codeforces Beta Round #23.pdf
+[024]Codeforces Beta Round #24.pdf
+[025]Codeforces Beta Round #25 (Div. 2 Only).pdf
+[026]Codeforces Beta Round #26 (Codeforces format).pdf
+[027]Codeforces Beta Round #27 (Codeforces format, Div. 2).pdf
+[028]Codeforces Beta Round #28 (Codeforces format).pdf
+[029]Codeforces Beta Round #29 (Div. 2, Codeforces format).pdf
+[030]Codeforces Beta Round #30 (Codeforces format).pdf
+[031]Codeforces Beta Round #31 (Div. 2, Codeforces format).pdf
+[032]Codeforces Beta Round #32 (Div. 2, Codeforces format).pdf
+[033]Codeforces Beta Round #33 (Codeforces format).pdf
+[034]Codeforces Beta Round #34 (Div. 2).pdf
+[035]Codeforces Beta Round #35 (Div. 2).pdf
+[036]Codeforces Beta Round #36.pdf
+[037]Codeforces Beta Round #37.pdf
+[038]School Personal Contest #1 (Winter Computer School 2010_11)<br_>-<br_>Codeforces Beta Round #38 (ACM-ICPC Rules).pdf
+[039]School Team Contest #1 (Winter Computer School 2010_11).pdf
+[040]Codeforces Beta Round #39.pdf
+[041]Codeforces Beta Round #40 (Div. 2).pdf
+[042]Codeforces Beta Round #41.pdf
+[043]Codeforces Beta Round #42 (Div. 2).pdf
+[044]School Team Contest #2 (Winter Computer School 2010_11).pdf
+[045]School Team Contest #3 (Winter Computer School 2010_11).pdf
+[046]School Personal Contest #2 (Winter Computer School 2010_11)<br>-<br>Codeforces Beta Round #43 (ACM-ICPC Rules).pdf
+[047]Codeforces Beta Round #44 (Div. 2).pdf
+[048]School Personal Contest #3 (Winter Computer School 2010_11)<br>-<br>Codeforces Beta Round #45 (ACM-ICPC Rules).pdf
+[049]Codeforces Beta Round #46 (Div. 2).pdf
+[050]Codeforces Beta Round #47.pdf
+[051]Codeforces Beta Round #48.pdf
+[052]Codeforces Testing Round #1.pdf
+[053]Codeforces Beta Round #49 (Div. 2).pdf
+[054]Codeforces Beta Round #50.pdf
+[055]Codeforces Beta Round #51.pdf
+[056]Codeforces Beta Round #52 (Div. 2).pdf
+[057]Codeforces Beta Round #53.pdf
+[058]Codeforces Beta Round #54 (Div. 2).pdf
+[059]Codeforces Beta Round #55 (Div. 2).pdf
+[060]Codeforces Beta Round #56.pdf
+[061]Codeforces Beta Round #57 (Div. 2).pdf
+[062]Codeforces Beta Round #58.pdf
+[063]Codeforces Beta Round #59 (Div. 2).pdf
+[064]Unknown Language Round #1.pdf
+[065]Codeforces Beta Round #60.pdf
+[066]Codeforces Beta Round #61 (Div. 2).pdf
+[067]Manthan 2011.pdf
+[068]Codeforces Beta Round #62.pdf
+[069]Codeforces Beta Round #63 (Div. 2).pdf
+[070]Codeforces Beta Round #64.pdf
+[071]Codeforces Beta Round #65 (Div. 2).pdf
+[072]Unknown Language Round #2.pdf
+[073]Codeforces Beta Round #66.pdf
+[074]Codeforces Beta Round #68.pdf
+[075]Codeforces Beta Round #67 (Div. 2).pdf
+[076]All-Ukrainian School Olympiad in Informatics.pdf
+[077]Codeforces Beta Round #69 (Div. 1 Only).pdf
+[078]Codeforces Beta Round #70 (Div. 2).pdf
+[079]Codeforces Beta Round #71.pdf
+[080]Codeforces Beta Round #69 (Div. 2 Only).pdf
+[081]Yandex.Algorithm Open 2011<br>Qualification 1.pdf
+[082]Yandex.Algorithm 2011<br>Qualification 2.pdf
+[083]Codeforces Beta Round #72 (Div. 1 Only).pdf
+[084]Codeforces Beta Round #72 (Div. 2 Only).pdf
+[085]Yandex.Algorithm 2011<br>Round 1.pdf
+[086]Yandex.Algorithm 2011<br>Round 2.pdf
+[087]Codeforces Beta Round #73 (Div. 1 Only).pdf
+[088]Codeforces Beta Round #73 (Div. 2 Only).pdf
+[089]Codeforces Beta Round #74 (Div. 1 Only).pdf
+[090]Codeforces Beta Round #74 (Div. 2 Only).pdf
+[091]Codeforces Beta Round #75 (Div. 1 Only).pdf
+[092]Codeforces Beta Round #75 (Div. 2 Only).pdf
+[093]Codeforces Beta Round #76 (Div. 1 Only).pdf
+[094]Codeforces Beta Round #76 (Div. 2 Only).pdf
+[095]Codeforces Beta Round #77 (Div. 1 Only).pdf
+[096]Codeforces Beta Round #77 (Div. 2 Only).pdf
+[097]Yandex.Algorithm 2011<br>Finals.pdf
+[098]Codeforces Beta Round #78 (Div. 1 Only).pdf
+[099]Codeforces Beta Round #78 (Div. 2 Only).pdf
+[100]Unknown Language Round #3.pdf
+
+[101-200]:
+[101]Codeforces Beta Round #79 (Div. 1 Only).pdf
+[102]Codeforces Beta Round #79 (Div. 2 Only).pdf
+[103]Codeforces Beta Round #80 (Div. 1 Only).pdf
+[104]Codeforces Beta Round #80 (Div. 2 Only).pdf
+[105]Codeforces Beta Round #81.pdf
+[106]Codeforces Beta Round #82 (Div. 2).pdf
+[107]Codeforces Beta Round #83 (Div. 1 Only).pdf
+[108]Codeforces Beta Round #83 (Div. 2 Only).pdf
+[109]Codeforces Beta Round #84 (Div. 1 Only).pdf
+[110]Codeforces Beta Round #84 (Div. 2 Only).pdf
+[111]Codeforces Beta Round #85 (Div. 1 Only).pdf
+[112]Codeforces Beta Round #85 (Div. 2 Only).pdf
+[113]Codeforces Beta Round #86 (Div. 1 Only).pdf
+[114]Codeforces Beta Round #86 (Div. 2 Only).pdf
+[115]Codeforces Beta Round #87 (Div. 1 Only).pdf
+[116]Codeforces Beta Round #87 (Div. 2 Only).pdf
+[117]Codeforces Beta Round #88.pdf
+[118]Codeforces Beta Round #89 (Div. 2).pdf
+[119]Codeforces Beta Round #90.pdf
+[120]School Regional Team Contest, Saratov, 2011.pdf
+[121]Codeforces Beta Round #91 (Div. 1 Only).pdf
+[122]Codeforces Beta Round #91 (Div. 2 Only).pdf
+[123]Codeforces Beta Round #92 (Div. 1 Only).pdf
+[124]Codeforces Beta Round #92 (Div. 2 Only).pdf
+[125]Codeforces Testing Round #2.pdf
+[126]Codeforces Beta Round #93 (Div. 1 Only).pdf
+[127]Codeforces Beta Round #93 (Div. 2 Only).pdf
+[128]Codeforces Beta Round #94 (Div. 1 Only).pdf
+[129]Codeforces Beta Round #94 (Div. 2 Only).pdf
+[130]Unknown Language Round #4.pdf
+[131]Codeforces Beta Round #95 (Div. 2).pdf
+[132]Codeforces Beta Round #96 (Div. 1).pdf
+[133]Codeforces Beta Round #96 (Div. 2).pdf
+[134]Codeforces Testing Round #3.pdf
+[135]Codeforces Beta Round #97 (Div. 1).pdf
+[136]Codeforces Beta Round #97 (Div. 2).pdf
+[137]Codeforces Beta Round #98 (Div. 2).pdf
+[138]Codeforces Beta Round #99 (Div. 1).pdf
+[139]Codeforces Beta Round #99 (Div. 2).pdf
+[140]Codeforces Round #100.pdf
+[141]Codeforces Round #101 (Div. 2).pdf
+[142]Codeforces Round #102 (Div. 1).pdf
+[143]Codeforces Round #102 (Div. 2).pdf
+[144]Codeforces Round #103 (Div. 2).pdf
+[145]Codeforces Round #104 (Div. 1).pdf
+[146]Codeforces Round #104 (Div. 2).pdf
+[147]Codeforces Testing Round #4.pdf
+[148]Codeforces Round #105 (Div. 2).pdf
+[149]Codeforces Round #106 (Div. 2).pdf
+[150]Codeforces Round #107 (Div. 1).pdf
+[151]Codeforces Round #107 (Div. 2).pdf
+[152]Codeforces Round #108 (Div. 2).pdf
+[153]Surprise Language Round #5.pdf
+[154]Codeforces Round #109 (Div. 1).pdf
+[155]Codeforces Round #109 (Div. 2).pdf
+[156]Codeforces Round #110 (Div. 1).pdf
+[157]Codeforces Round #110 (Div. 2).pdf
+[158]VK Cup 2012 Qualification Round 1.pdf
+[159]VK Cup 2012 Qualification Round 2.pdf
+[160]Codeforces Round #111 (Div. 2).pdf
+[161]VK Cup 2012 Round 1.pdf
+[162]VK Cup 2012 Wild-card Round 1.pdf
+[163]VK Cup 2012 Round 2.pdf
+[164]VK Cup 2012 Round 3.pdf
+[165]Codeforces Round #112 (Div. 2).pdf
+[166]Codeforces Round #113 (Div. 2).pdf
+[167]Codeforces Round #114 (Div. 1).pdf
+[168]Codeforces Round #114 (Div. 2).pdf
+[169]VK Cup 2012 Round 2 (Unofficial Div. 2 Edition).pdf
+[170]VK Cup 2012 Wild-card Round 2.pdf
+[171]April Fools Day Contest.pdf
+[172]Croc Champ 2012 - Qualification Round.pdf
+[173]Croc Champ 2012 - Round 1.pdf
+[174]VK Cup 2012 Round 3 (Unofficial Div. 2 Edition).pdf
+[175]Codeforces Round #115.pdf
+[176]Croc Champ 2012 - Round 2.pdf
+[177]ABBYY Cup 2.0 - Easy.pdf
+[178]ABBYY Cup 2.0 - Hard.pdf
+[179]RazMERiq 2012 (Private Contest).pdf
+[180]Codeforces Round #116 (Div. 2, ACM-ICPC Rules).pdf
+[181]Croc Champ 2012 - Round 2 (Unofficial Div. 2 Edition).pdf
+[182]Codeforces Round #117 (Div. 2).pdf
+[183]Croc Champ 2012 - Final.pdf
+[185]Codeforces Round #118 (Div. 1).pdf
+[186]Codeforces Round #118 (Div. 2).pdf
+[187]Codeforces Round #119 (Div. 1).pdf
+[188]Surprise Language Round #6.pdf
+[189]Codeforces Round #119 (Div. 2).pdf
+[190]Codeforces Round #120 (Div. 2).pdf
+[191]Codeforces Round #121 (Div. 1).pdf
+[192]Codeforces Round #121 (Div. 2).pdf
+[193]Codeforces Round #122 (Div. 1).pdf
+[194]Codeforces Round #122 (Div. 2).pdf
+[195]Codeforces Round #123 (Div. 2).pdf
+[196]Codeforces Round #124 (Div. 1).pdf
+[197]Codeforces Round #124 (Div. 2).pdf
+[198]Codeforces Round #125 (Div. 1).pdf
+[199]Codeforces Round #125 (Div. 2).pdf
+[200]Codeforces Round #126 (Div. 2).pdf
+
+[201-300]:
+[201]Codeforces Round #127 (Div. 1).pdf
+[202]Codeforces Round #127 (Div. 2).pdf
+[203]Codeforces Round #128 (Div. 2).pdf
+[204]Codeforces Round #129 (Div. 1).pdf
+[205]Codeforces Round #129 (Div. 2).pdf
+[206]Abbyy Cup 2.0 - Final.pdf
+[207]Abbyy Cup 2.0 - Final (unofficial).pdf
+[208]Codeforces Round #130 (Div. 2).pdf
+[209]VK Cup 2012 Finals, Practice Session.pdf
+[211]VK Cup 2012 Finals.pdf
+[212]VK Cup 2012 Finals (unofficial online-version).pdf
+[213]Codeforces Round #131 (Div. 1).pdf
+[214]Codeforces Round #131 (Div. 2).pdf
+[215]Codeforces Round #132 (Div. 2).pdf
+[216]Codeforces Round #133 (Div. 2).pdf
+[217]Codeforces Round #134 (Div. 1).pdf
+[218]Codeforces Round #134 (Div. 2).pdf
+[219]Codeforces Round #135 (Div. 2).pdf
+[220]Codeforces Round #136 (Div. 1).pdf
+[221]Codeforces Round #136 (Div. 2).pdf
+[222]Codeforces Round #137 (Div. 2).pdf
+[223]Codeforces Round #138 (Div. 1).pdf
+[224]Codeforces Round #138 (Div. 2).pdf
+[225]Codeforces Round #139 (Div. 2).pdf
+[226]Codeforces Round #140 (Div. 1).pdf
+[227]Codeforces Round #140 (Div. 2).pdf
+[228]Codeforces Round #141 (Div. 2).pdf
+[229]Codeforces Round #142 (Div. 1).pdf
+[230]Codeforces Round #142 (Div. 2).pdf
+[231]Codeforces Round #143 (Div. 2).pdf
+[232]Codeforces Round #144 (Div. 1).pdf
+[233]Codeforces Round #144 (Div. 2).pdf
+[234]Codeforces Round #145 (Div. 2, ACM-ICPC Rules).pdf
+[235]Codeforces Round #146 (Div. 1).pdf
+[236]Codeforces Round #146 (Div. 2).pdf
+[237]Codeforces Round #147 (Div. 2).pdf
+[238]Codeforces Round #148 (Div. 1).pdf
+[239]Codeforces Round #148 (Div. 2).pdf
+[240]Codeforces Round #145 (Div. 1, ACM-ICPC Rules).pdf
+[241]Bayan 2012-2013 Elimination Round (ACM ICPC Rules, English statements).pdf
+[242]Codeforces Round #149 (Div. 2).pdf
+[243]Codeforces Round #150 (Div. 1).pdf
+[244]Codeforces Round #150 (Div. 2).pdf
+[245]CROC-MBTU 2012, Elimination Round (ACM-ICPC).pdf
+[246]Codeforces Round #151 (Div. 2).pdf
+[247]CROC-MBTU 2012, Final Round.pdf
+[248]Codeforces Round #152 (Div. 2).pdf
+[249]Codeforces Round #152 (Div. 1).pdf
+[250]CROC-MBTU 2012, Final Round (Online version, Div. 2).pdf
+[251]Codeforces Round #153 (Div. 1).pdf
+[252]Codeforces Round #153 (Div. 2).pdf
+[253]Codeforces Round #154 (Div. 2).pdf
+[254]Codeforces Round #155 (Div. 2).pdf
+[255]Codeforces Round #156 (Div. 2).pdf
+[256]Codeforces Round #156 (Div. 1).pdf
+[257]Codeforces Round #159 (Div. 2).pdf
+[258]Codeforces Round #157 (Div. 1).pdf
+[259]Codeforces Round #157 (Div. 2).pdf
+[260]Codeforces Round #158 (Div. 2).pdf
+[261]Codeforces Round #160 (Div. 1).pdf
+[262]Codeforces Round #160 (Div. 2).pdf
+[263]Codeforces Round #161 (Div. 2).pdf
+[264]Codeforces Round #162 (Div. 1).pdf
+[265]Codeforces Round #162 (Div. 2).pdf
+[266]Codeforces Round #163 (Div. 2).pdf
+[267]Codeforces Testing Round #5.pdf
+[268]Codeforces Round #164 (Div. 2).pdf
+[269]Codeforces Round #165 (Div. 1).pdf
+[270]Codeforces Round #165 (Div. 2).pdf
+[271]Codeforces Round #166 (Div. 2).pdf
+[272]Codeforces Round #167 (Div. 2).pdf
+[273]Codeforces Round #167 (Div. 1).pdf
+[274]Codeforces Round #168 (Div. 1).pdf
+[275]Codeforces Round #168 (Div. 2).pdf
+[276]Codeforces Round #169 (Div. 2).pdf
+[277]Codeforces Round #170 (Div. 1).pdf
+[278]Codeforces Round #170 (Div. 2).pdf
+[279]Codeforces Round #171 (Div. 2).pdf
+[280]Codeforces Round #172 (Div. 1).pdf
+[281]Codeforces Round #172 (Div. 2).pdf
+[282]Codeforces Round #173 (Div. 2).pdf
+[283]Codeforces Round #174 (Div. 1).pdf
+[284]Codeforces Round #174 (Div. 2).pdf
+[285]Codeforces Round #175 (Div. 2).pdf
+[286]Codeforces Round #176 (Div. 1).pdf
+[287]Codeforces Round #176 (Div. 2).pdf
+[288]Codeforces Round #177 (Div. 1).pdf
+[289]Codeforces Round #177 (Div. 2).pdf
+[290]April Fools Day Contest 2013.pdf
+[291]Croc Champ 2013 - Qualification Round.pdf
+[292]Croc Champ 2013 - Round 1.pdf
+[293]Croc Champ 2013 - Round 2.pdf
+[294]Codeforces Round #178 (Div. 2).pdf
+[295]Codeforces Round #179 (Div. 1).pdf
+[296]Codeforces Round #179 (Div. 2).pdf
+[297]Codeforces Round #180 (Div. 1).pdf
+[298]Codeforces Round #180 (Div. 2).pdf
+[299]Croc Champ 2013 - Round 2 (Div. 2 Edition).pdf
+[300]Codeforces Round #181 (Div. 2).pdf
+
+[301-400]:
+[301]Codeforces Round #182 (Div. 1).pdf
+[302]Codeforces Round #182 (Div. 2).pdf
+[303]Codeforces Round #183 (Div. 1).pdf
+[304]Codeforces Round #183 (Div. 2).pdf
+[305]Codeforces Round #184 (Div. 2).pdf
+[306]Testing Round #6.pdf
+[307]Croc Champ 2013 - Trial Contest (Finals).pdf
+[308]Croc Champ 2013 - Finals.pdf
+[309]Croc Champ 2013 - Finals (online version, Div. 1).pdf
+[311]Codeforces Round #185 (Div. 1).pdf
+[312]Codeforces Round #185 (Div. 2).pdf
+[313]Codeforces Round #186 (Div. 2).pdf
+[314]Codeforces Round #187 (Div. 1).pdf
+[315]Codeforces Round #187 (Div. 2).pdf
+[316]ABBYY Cup 3.0.pdf
+[317]Codeforces Round #188 (Div. 1).pdf
+[318]Codeforces Round #188 (Div. 2).pdf
+[319]Codeforces Round #189 (Div. 1).pdf
+[320]Codeforces Round #189 (Div. 2).pdf
+[321]Codeforces Round #190 (Div. 1).pdf
+[322]Codeforces Round #190 (Div. 2).pdf
+[323]Testing Round #7.pdf
+[324]ABBYY Cup 3.0 - Finals.pdf
+[325]MemSQL start[c]up Round 1.pdf
+[326]MemSQL start[c]up Round 2.pdf
+[327]Codeforces Round #191 (Div. 2).pdf
+[328]Testing Round #8.pdf
+[329]Codeforces Round #192 (Div. 1).pdf
+[330]Codeforces Round #192 (Div. 2).pdf
+[331]ABBYY Cup 3.0 - Finals (online version).pdf
+[332]Codeforces Round #193 (Div. 2).pdf
+[333]Codeforces Round #194 (Div. 1).pdf
+[334]Codeforces Round #194 (Div. 2).pdf
+[335]MemSQL start[c]up Round 2 - online version.pdf
+[336]Codeforces Round #195 (Div. 2).pdf
+[337]Codeforces Round #196 (Div. 2).pdf
+[338]Codeforces Round #196 (Div. 1).pdf
+[339]Codeforces Round #197 (Div. 2).pdf
+[340]Codeforces Round #198 (Div. 2).pdf
+[341]Codeforces Round #198 (Div. 1).pdf
+[342]Codeforces Round #199 (Div. 2).pdf
+[343]Codeforces Round #200 (Div. 1).pdf
+[344]Codeforces Round #200 (Div. 2).pdf
+[345]Friday the 13th, Programmers Day.pdf
+[346]Codeforces Round #201 (Div. 1).pdf
+[347]Codeforces Round #201 (Div. 2).pdf
+[348]Codeforces Round #202 (Div. 1).pdf
+[349]Codeforces Round #202 (Div. 2).pdf
+[350]Codeforces Round #203 (Div. 2).pdf
+[351]Codeforces Round #204 (Div. 1).pdf
+[352]Codeforces Round #204 (Div. 2).pdf
+[353]Codeforces Round #205 (Div. 2).pdf
+[354]Codeforces Round #206 (Div. 1).pdf
+[355]Codeforces Round #206 (Div. 2).pdf
+[356]Codeforces Round #207 (Div. 1).pdf
+[357]Codeforces Round #207 (Div. 2).pdf
+[358]Codeforces Round #208 (Div. 2).pdf
+[359]Codeforces Round #209 (Div. 2).pdf
+[360]Codeforces Round #210 (Div. 1).pdf
+[361]Codeforces Round #210 (Div. 2).pdf
+[362]Codeforces Round #212 (Div. 2).pdf
+[363]Codeforces Round #211 (Div. 2).pdf
+[364]Codeforces Round #213 (Div. 1).pdf
+[365]Codeforces Round #213 (Div. 2).pdf
+[366]Codeforces Round #214 (Div. 2).pdf
+[367]Codeforces Round #215 (Div. 1).pdf
+[368]Codeforces Round #215 (Div. 2).pdf
+[369]Codeforces Round #216 (Div. 2).pdf
+[370]Codeforces Round #217 (Div. 2).pdf
+[371]Codeforces Round #218 (Div. 2).pdf
+[372]Codeforces Round #219 (Div. 1).pdf
+[373]Codeforces Round #219 (Div. 2).pdf
+[374]Codeforces Round #220 (Div. 2).pdf
+[375]Codeforces Round #221 (Div. 1).pdf
+[376]Codeforces Round #221 (Div. 2).pdf
+[377]Codeforces Round #222 (Div. 1).pdf
+[378]Codeforces Round #222 (Div. 2).pdf
+[379]Good Bye 2013.pdf
+[380]Codeforces Round #223 (Div. 1).pdf
+[381]Codeforces Round #223 (Div. 2).pdf
+[382]Codeforces Round #224 (Div. 2).pdf
+[383]Codeforces Round #225 (Div. 1).pdf
+[384]Codeforces Round #225 (Div. 2).pdf
+[385]Codeforces Round #226 (Div. 2).pdf
+[386]Testing Round #9.pdf
+[387]Codeforces Round #227 (Div. 2).pdf
+[388]Codeforces Round #228 (Div. 1).pdf
+[389]Codeforces Round #228 (Div. 2).pdf
+[390]Codeforces Round #229 (Div. 2).pdf
+[391]Rockethon 2014.pdf
+[392]Codeforces Round #230 (Div. 1).pdf
+[393]Codeforces Round #230 (Div. 2).pdf
+[394]Codeforces Round #231 (Div. 2).pdf
+[396]Codeforces Round #232 (Div. 1).pdf
+[397]Codeforces Round #232 (Div. 2).pdf
+[398]Codeforces Round #233 (Div. 1).pdf
+[399]Codeforces Round #233 (Div. 2).pdf
+[400]Codeforces Round #234 (Div. 2).pdf
+
+[401-500]:
+[401]Codeforces Round #235 (Div. 2).pdf
+[402]Codeforces Round #236 (Div. 2).pdf
+[403]Codeforces Round #236 (Div. 1).pdf
+[404]Codeforces Round #237 (Div. 2).pdf
+[405]Codeforces Round #238 (Div. 2).pdf
+[406]Codeforces Round #238 (Div. 1).pdf
+[407]Codeforces Round #239 (Div. 1).pdf
+[408]Codeforces Round #239 (Div. 2).pdf
+[409]April Fools Day Contest 2014.pdf
+[411]Coder-Strike 2014 - Qualification Round.pdf
+[412]Coder-Strike 2014 - Round 1.pdf
+[413]Coder-Strike 2014 - Round 2.pdf
+[414]Codeforces Round #240 (Div. 1).pdf
+[415]Codeforces Round #240 (Div. 2).pdf
+[416]Codeforces Round #241 (Div. 2).pdf
+[417]RCC 2014 Warmup (Div. 2).pdf
+[418]RCC 2014 Warmup (Div. 1).pdf
+[419]Coder-Strike 2014 - Finals.pdf
+[420]Coder-Strike 2014 - Finals (online edition, Div. 1).pdf
+[421]Coder-Strike 2014 - Finals (online edition, Div. 2).pdf
+[424]Codeforces Round #242 (Div. 2).pdf
+[425]Codeforces Round #243 (Div. 1).pdf
+[426]Codeforces Round #243 (Div. 2).pdf
+[427]Codeforces Round #244 (Div. 2).pdf
+[429]Codeforces Round #245 (Div. 1).pdf
+[430]Codeforces Round #245 (Div. 2).pdf
+[431]Codeforces Round #247 (Div. 2).pdf
+[432]Codeforces Round #246 (Div. 2).pdf
+[433]Codeforces Round #248 (Div. 2).pdf
+[434]Codeforces Round #248 (Div. 1).pdf
+[435]Codeforces Round #249 (Div. 2).pdf
+[436]Zepto Code Rush 2014.pdf
+[437]Codeforces Round #250 (Div. 2).pdf
+[438]Codeforces Round #250 (Div. 1).pdf
+[439]Codeforces Round #251 (Div. 2).pdf
+[440]Testing Round #10.pdf
+[441]Codeforces Round #252 (Div. 2).pdf
+[442]Codeforces Round #253 (Div. 1).pdf
+[443]Codeforces Round #253 (Div. 2).pdf
+[444]Codeforces Round #254 (Div. 1).pdf
+[445]Codeforces Round #254 (Div. 2).pdf
+[446]Codeforces Round #FF (Div. 1).pdf
+[447]Codeforces Round #FF (Div. 2).pdf
+[448]Codeforces Round #256 (Div. 2).pdf
+[449]Codeforces Round #257 (Div. 1).pdf
+[450]Codeforces Round #257 (Div. 2).pdf
+[451]Codeforces Round #258 (Div. 2).pdf
+[452]MemSQL Start[c]UP 2.0 - Round 1.pdf
+[453]Codeforces Round #259 (Div. 1).pdf
+[454]Codeforces Round #259 (Div. 2).pdf
+[455]Codeforces Round #260 (Div. 1).pdf
+[456]Codeforces Round #260 (Div. 2).pdf
+[457]MemSQL Start[c]UP 2.0 - Round 2.pdf
+[458]MemSQL Start[c]UP 2.0 - Round 2 - Online Round.pdf
+[459]Codeforces Round #261 (Div. 2).pdf
+[460]Codeforces Round #262 (Div. 2).pdf
+[461]Codeforces Round #263 (Div. 1).pdf
+[462]Codeforces Round #263 (Div. 2).pdf
+[463]Codeforces Round #264 (Div. 2).pdf
+[464]Codeforces Round #265 (Div. 1).pdf
+[465]Codeforces Round #265 (Div. 2).pdf
+[466]Codeforces Round #266 (Div. 2).pdf
+[467]Codeforces Round #267 (Div. 2).pdf
+[468]Codeforces Round #268 (Div. 1).pdf
+[469]Codeforces Round #268 (Div. 2).pdf
+[470]Surprise Language Round #7.pdf
+[471]Codeforces Round #269 (Div. 2).pdf
+[472]Codeforces Round #270.pdf
+[474]Codeforces Round #271 (Div. 2).pdf
+[475]Bayan 2015 Contest Warm Up.pdf
+[476]Codeforces Round #272 (Div. 2).pdf
+[477]Codeforces Round #272 (Div. 1).pdf
+[478]Codeforces Round #273 (Div. 2).pdf
+[479]Codeforces Round #274 (Div. 2).pdf
+[480]Codeforces Round #274 (Div. 1).pdf
+[482]Codeforces Round #275 (Div. 1).pdf
+[483]Codeforces Round #275 (Div. 2).pdf
+[484]Codeforces Round #276 (Div. 1).pdf
+[485]Codeforces Round #276 (Div. 2).pdf
+[486]Codeforces Round #277 (Div. 2).pdf
+[487]Codeforces Round #278 (Div. 1).pdf
+[488]Codeforces Round #278 (Div. 2).pdf
+[489]Codeforces Round #277.5 (Div. 2).pdf
+[490]Codeforces Round #279 (Div. 2).pdf
+[491]Testing Round #11.pdf
+[492]Codeforces Round #280 (Div. 2).pdf
+[493]Codeforces Round #281 (Div. 2).pdf
+[494]Codeforces Round #282 (Div. 1).pdf
+[495]Codeforces Round #282 (Div. 2).pdf
+[496]Codeforces Round #283 (Div. 2).pdf
+[497]Codeforces Round #283 (Div. 1).pdf
+[498]Codeforces Round #284 (Div. 1).pdf
+[499]Codeforces Round #284 (Div. 2).pdf
+[500]Good Bye 2014.pdf
+
+[501-600]:
+[501]Codeforces Round #285 (Div. 2).pdf
+[504]Codeforces Round #285 (Div. 1).pdf
+[505]Codeforces Round #286 (Div. 2).pdf
+[506]Codeforces Round #286 (Div. 1).pdf
+[507]Codeforces Round #287 (Div. 2).pdf
+[508]Codeforces Round #288 (Div. 2).pdf
+[509]Codeforces Round #289 (Div. 2, ACM ICPC Rules).pdf
+[510]Codeforces Round #290 (Div. 2).pdf
+[512]Codeforces Round #290 (Div. 1).pdf
+[513]Rockethon 2015.pdf
+[514]Codeforces Round #291 (Div. 2).pdf
+[515]Codeforces Round #292 (Div. 2).pdf
+[516]Codeforces Round #292 (Div. 1).pdf
+[518]Codeforces Round #293 (Div. 2).pdf
+[519]Codeforces Round #294 (Div. 2).pdf
+[520]Codeforces Round #295 (Div. 2).pdf
+[521]Codeforces Round #295 (Div. 1).pdf
+[522]VK Cup 2015 - Qualification Round 1.pdf
+[523]VK Cup 2015 - Qualification Round 2.pdf
+[524]VK Cup 2015 - Round 1.pdf
+[525]Codeforces Round #297 (Div. 2).pdf
+[526]ZeptoLab Code Rush 2015.pdf
+[527]Codeforces Round #296 (Div. 2).pdf
+[528]Codeforces Round #296 (Div. 1).pdf
+[529]VK Cup 2015 - Round 1 (unofficial online mirror, Div. 1 only).pdf
+[530]VK Cup 2015 - Wild Card Round 1.pdf
+[531]VK Cup 2015 - Wild Card Round 1 (Online Mirror).pdf
+[532]VK Cup 2015 - Round 2.pdf
+[533]VK Cup 2015 - Round 2 (unofficial online mirror, Div. 1 only).pdf
+[534]Codeforces Round #298 (Div. 2).pdf
+[535]Codeforces Round #299 (Div. 2).pdf
+[536]Codeforces Round #299 (Div. 1).pdf
+[537]VK Cup 2015 - Wild Card Round 2.pdf
+[538]Codeforces Round #300.pdf
+[540]Codeforces Round #301 (Div. 2).pdf
+[541]VK Cup 2015 - Раунд 3.pdf
+[542]VK Cup 2015 - Round 3 (unofficial online mirror, Div. 1 only).pdf
+[543]Codeforces Round #302 (Div. 1).pdf
+[544]Codeforces Round #302 (Div. 2).pdf
+[545]Codeforces Round #303 (Div. 2).pdf
+[546]Codeforces Round #304 (Div. 2).pdf
+[547]Codeforces Round #305 (Div. 1).pdf
+[548]Codeforces Round #305 (Div. 2).pdf
+[549]Looksery Cup 2015.pdf
+[550]Codeforces Round #306 (Div. 2).pdf
+[551]Codeforces Round #307 (Div. 2).pdf
+[552]Codeforces Round #308 (Div. 2).pdf
+[553]Codeforces Round #309 (Div. 1).pdf
+[554]Codeforces Round #309 (Div. 2).pdf
+[555]Codeforces Round #310 (Div. 1).pdf
+[556]Codeforces Round #310 (Div. 2).pdf
+[557]Codeforces Round #311 (Div. 2).pdf
+[558]Codeforces Round #312 (Div. 2).pdf
+[559]Codeforces Round #313 (Div. 1).pdf
+[560]Codeforces Round #313 (Div. 2).pdf
+[561]VK Cup 2015 - Finals (Practice Round).pdf
+[562]VK Cup 2015 - Finals.pdf
+[566]VK Cup 2015 - Finals, online mirror.pdf
+[567]Codeforces Round #Pi (Div. 2).pdf
+[568]Codeforces Round #315 (Div. 1).pdf
+[569]Codeforces Round #315 (Div. 2).pdf
+[570]Codeforces Round #316 (Div. 2).pdf
+[571]Codeforces Round #317 [AimFund Thanks-Round] (Div. 1).pdf
+[572]Codeforces Round #317 [AimFund Thanks-Round] (Div. 2).pdf
+[573]Codeforces Round #318 [RussianCodeCup Thanks-Round] (Div. 1).pdf
+[574]Codeforces Round #318 [RussianCodeCup Thanks-Round] (Div. 2).pdf
+[575]Bubble Cup 8 - Finals [Online Mirror].pdf
