@@ -569,3 +569,7 @@ list.txt
 [573]Codeforces Round #318 [RussianCodeCup Thanks-Round] (Div. 1).pdf
 [574]Codeforces Round #318 [RussianCodeCup Thanks-Round] (Div. 2).pdf
 [575]Bubble Cup 8 - Finals [Online Mirror].pdf
+[576]Codeforces Round #319 (Div. 1).pdf
+[577]Codeforces Round #319 (Div. 2).pdf
+[578]Codeforces Round #320 (Div. 1) [Bayan Thanks-Round].pdf
+[579]Codeforces Round #320 (Div. 2) [Bayan Thanks-Round].pdf
