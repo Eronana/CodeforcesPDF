@@ -573,3 +573,4 @@ list.txt
 [577]Codeforces Round #319 (Div. 2).pdf
 [578]Codeforces Round #320 (Div. 1) [Bayan Thanks-Round].pdf
 [579]Codeforces Round #320 (Div. 2) [Bayan Thanks-Round].pdf
+[580]Codeforces Round #321 (Div. 2).pdf
