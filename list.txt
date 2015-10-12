@@ -578,3 +578,5 @@ list.txt
 [582]Codeforces Round #323 (Div. 1).pdf
 [583]Codeforces Round #323 (Div. 2).pdf
 [584]Codeforces Round #324 (Div. 2).pdf
+[585]Codeforces Round #325 (Div. 1).pdf
+[586]Codeforces Round #325 (Div. 2).pdf
