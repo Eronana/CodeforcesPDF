@@ -582,3 +582,4 @@ list.txt
 [586]Codeforces Round #325 (Div. 2).pdf
 [587]Codeforces Round #326 (Div. 1).pdf
 [588]Codeforces Round #326 (Div. 2).pdf
+[589]2015-2016 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred).pdf
