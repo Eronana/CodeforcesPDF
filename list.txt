@@ -602,3 +602,11 @@ list.txt
 [604]Codeforces Round #334 (Div. 2).pdf
 [605]Codeforces Round #335 (Div. 1).pdf
 [606]Codeforces Round #335 (Div. 2).pdf
+[607]Codeforces Round #336 (Div. 1).pdf
+[608]Codeforces Round #336 (Div. 2).pdf
+[609]Educational Codeforces Round 3.pdf
+[610]Codeforces Round #337 (Div. 2).pdf
+[611]Good Bye 2015.pdf
+[612]Educational Codeforces Round 4.pdf
+[615]Codeforces Round #338 (Div. 2).pdf
+[616]Educational Codeforces Round 5.pdf
