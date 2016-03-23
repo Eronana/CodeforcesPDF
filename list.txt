@@ -612,3 +612,31 @@ list.txt
 [614]Codeforces Round #339 (Div. 2).pdf
 [615]Codeforces Round #338 (Div. 2).pdf
 [616]Educational Codeforces Round 5.pdf
+[617]Codeforces Round #340 (Div. 2).pdf
+[618]Wunder Fund Round 2016 (Div. 1 + Div. 2 combined).pdf
+[620]Educational Codeforces Round 6.pdf
+[621]Codeforces Round #341 (Div. 2).pdf
+[622]Educational Codeforces Round 7.pdf
+[623]AIM Tech Round (Div. 1).pdf
+[624]AIM Tech Round (Div. 2).pdf
+[625]Codeforces Round #342 (Div. 2).pdf
+[626]8VC Venture Cup 2016 - Elimination Round.pdf
+[627]8VC Venture Cup 2016 - Final Round.pdf
+[628]Educational Codeforces Round 8.pdf
+[629]Codeforces Round #343 (Div. 2).pdf
+[630]Experimental Educational Round: VolBIT Formulas Blitz.pdf
+[631]Codeforces Round #344 (Div. 2).pdf
+[632]Educational Codeforces Round 9.pdf
+[633]Manthan, Codefest 16.pdf
+[634]8VC Venture Cup 2016 - Final Round (Div. 1 Edition).pdf
+[635]8VC Venture Cup 2016 - Final Round (Div. 2 Edition).pdf
+[636]VeeRoute Marathon.pdf
+[637]VK Cup 2016 - Qualification Round 1 (Russian-Speaking Only, for VK Cup Teams).pdf
+[638]VK Cup 2016 - Qualification Round 2 (Russian-Speaking Only, for VK Cup Teams).pdf
+[644]CROC 2016 - Qualification.pdf
+[645]CROC 2016 - Elimination Round.pdf
+[646]Технокубок 2016 - Ознакомительный Раунд 1.pdf
+[650]Codeforces Round #345 (Div. 1).pdf
+[651]Codeforces Round #345 (Div. 2).pdf
+[653]IndiaHacks 2016 - Online Edition (Div. 1 + Div. 2).pdf
+[655]CROC 2016 - Elimination Round  (Rated Unofficial Edition).pdf
