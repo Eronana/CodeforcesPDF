@@ -633,10 +633,39 @@ list.txt
 [636]VeeRoute Marathon.pdf
 [637]VK Cup 2016 - Qualification Round 1 (Russian-Speaking Only, for VK Cup Teams).pdf
 [638]VK Cup 2016 - Qualification Round 2 (Russian-Speaking Only, for VK Cup Teams).pdf
+[638]VK Cup 2016 - Qualification Round 2.pdf
+[639]VK Cup 2016 - Round 1.pdf
+[640]VK Cup 2016 - Wild Card Round 1.pdf
+[641]VK Cup 2016 - Round 2.pdf
+[642]VK Cup 2016 - Wild Card Round 2.pdf
+[643]VK Cup 2016 - Round 3.pdf
 [644]CROC 2016 - Qualification.pdf
 [645]CROC 2016 - Elimination Round.pdf
 [646]Технокубок 2016 - Ознакомительный Раунд 1.pdf
+[647]Технокубок 2016 - Ознакомительный Раунд 2.pdf
+[648]Технокубок 2016 - Отборочный Раунд 1.pdf
+[649]Технокубок 2016 - Отборочный Раунд 2.pdf
 [650]Codeforces Round #345 (Div. 1).pdf
 [651]Codeforces Round #345 (Div. 2).pdf
+[652]Educational Codeforces Round 10.pdf
 [653]IndiaHacks 2016 - Online Edition (Div. 1 + Div. 2).pdf
 [655]CROC 2016 - Elimination Round  (Rated Unofficial Edition).pdf
+[656]April Fools Day Contest 2016.pdf
+[657]VK Cup 2016 - Round 1 (Div.1 Edition).pdf
+[658]VK Cup 2016 - Round 1 (Div. 2 Edition).pdf
+[659]Codeforces Round #346 (Div. 2).pdf
+[660]Educational Codeforces Round 11.pdf
+[661]VK Cup 2016 - Wild Card Round 1 (Unofficial Open Online Mirror).pdf
+[662]CROC 2016 - Final Round [Private, For Onsite Finalists Only].pdf
+[663]Codeforces Round #347 (Div. 1).pdf
+[664]Codeforces Round #347 (Div. 2).pdf
+[665]Educational Codeforces Round 12.pdf
+[666]Codeforces Round #349 (Div. 1).pdf
+[667]Codeforces Round #349 (Div. 2).pdf
+[668]Codeforces Round #348 (VK Cup 2016 Round 2, Div. 1 Edition).pdf
+[669]Codeforces Round #348 (VK Cup 2016 Round 2, Div. 2 Edition).pdf
+[670]Codeforces Round #350 (Div. 2).pdf
+[671]Codeforces Round #352 (Div. 1).pdf
+[672]Codeforces Round #352 (Div. 2).pdf
+[673]Codeforces Round #351 (VK Cup 2016 Round 3, Div. 2 Edition).pdf
+[674]Codeforces Round #351 (VK Cup 2016 Round 3, Div. 1 Edition).pdf
