@@ -669,3 +669,29 @@ list.txt
 [672]Codeforces Round #352 (Div. 2).pdf
 [673]Codeforces Round #351 (VK Cup 2016 Round 3, Div. 2 Edition).pdf
 [674]Codeforces Round #351 (VK Cup 2016 Round 3, Div. 1 Edition).pdf
+[675]Codeforces Round #353 (Div. 2).pdf
+[676]Codeforces Round #354 (Div. 2).pdf
+[677]Codeforces Round #355 (Div. 2).pdf
+[678]Educational Codeforces Round 13.pdf
+[679]Codeforces Round #356 (Div. 1).pdf
+[680]Codeforces Round #356 (Div. 2).pdf
+[681]Codeforces Round #357 (Div. 2).pdf
+[682]Codeforces Round #358 (Div. 2).pdf
+[683]Surprise Language Round #8.pdf
+[684]Codeforces Marathon Round 1.pdf
+[685]Codeforces Round #359 (Div. 1).pdf
+[686]Codeforces Round #359 (Div. 2).pdf
+[687]Codeforces Round #360 (Div. 1).pdf
+[688]Codeforces Round #360 (Div. 2).pdf
+[689]Codeforces Round #361 (Div. 2).pdf
+[690]Helvetic Coding Contest 2016 online mirror (teams, unrated).pdf
+[691]Educational Codeforces Round 14.pdf
+[695]VK Cup 2016 - Finals.pdf
+[696]Codeforces Round #362 (Div. 1).pdf
+[697]Codeforces Round #362 (Div. 2).pdf
+[698]Codeforces Round #363 (Div. 1).pdf
+[699]Codeforces Round #363 (Div. 2).pdf
+[700]Codeforces Round #364 (Div. 1).pdf
+
+[701-800]:
+[701]Codeforces Round #364 (Div. 2).pdf
