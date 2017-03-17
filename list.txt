@@ -695,3 +695,78 @@ list.txt
 
 [701-800]:
 [701]Codeforces Round #364 (Div. 2).pdf
+[702]Educational Codeforces Round 15.pdf
+[703]Codeforces Round #365 (Div. 2).pdf
+[704]Codeforces Round #366 (Div. 1).pdf
+[705]Codeforces Round #366 (Div. 2).pdf
+[706]Codeforces Round #367 (Div. 2).pdf
+[707]Codeforces Round #368 (Div. 2).pdf
+[708]AIM Tech Round 3 (Div. 1).pdf
+[709]AIM Tech Round 3 (Div. 2).pdf
+[710]Educational Codeforces Round 16.pdf
+[711]Codeforces Round #369 (Div. 2).pdf
+[712]Codeforces Round #370 (Div. 2).pdf
+[713]Codeforces Round #371 (Div. 1).pdf
+[714]Codeforces Round #371 (Div. 2).pdf
+[715]Codeforces Round #372 (Div. 1).pdf
+[716]Codeforces Round #372 (Div. 2).pdf
+[717]Bubble Cup 9 - Finals [Online Mirror].pdf
+[718]Codeforces Round #373 (Div. 1).pdf
+[719]Codeforces Round #373 (Div. 2).pdf
+[720]Russian Code Cup 2016 - Finals [Unofficial Mirror, Div. 1 Only Recommended].pdf
+[721]Codeforces Round #374 (Div. 2).pdf
+[722]Intel Code Challenge Elimination Round (Div.1 + Div.2, combined).pdf
+[723]Codeforces Round #375 (Div. 2).pdf
+[724]Intel Code Challenge Final Round (Div. 1 + Div. 2, Combined).pdf
+[725]Canada Cup 2016.pdf
+[727]Technocup 2017 - Elimination Round 1 (Unofficially Open for Everyone, Rated for Div. 2).pdf
+[729]Technocup 2017 - Elimination Round 2.pdf
+[730]2016-2017 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred).pdf
+[731]Codeforces Round #376 (Div. 2).pdf
+[732]Codeforces Round #377 (Div. 2).pdf
+[733]Codeforces Round #378 (Div. 2).pdf
+[734]Codeforces Round #379 (Div. 2).pdf
+[735]Codeforces Round #382 (Div. 2).pdf
+[736]Codeforces Round #382 (Div. 1).pdf
+[737]Codeforces Round #380 (Div. 1, Rated, Based on Technocup 2017 - Elimination Round 2).pdf
+[738]Codeforces Round #380 (Div. 2, Rated, Based on Technocup 2017 - Elimination Round 2).pdf
+[739]Codeforces Round #381 (Div. 1).pdf
+[740]Codeforces Round #381 (Div. 2).pdf
+[741]Codeforces Round #383 (Div. 1).pdf
+[742]Codeforces Round #383 (Div. 2).pdf
+[743]Codeforces Round #384 (Div. 2).pdf
+[744]Codeforces Round #385 (Div. 1).pdf
+[745]Codeforces Round #385 (Div. 2).pdf
+[746]Codeforces Round #386 (Div. 2).pdf
+[747]Codeforces Round #387 (Div. 2).pdf
+[748]Technocup 2017 - Elimination Round 3.pdf
+[749]Codeforces Round #388 (Div. 2).pdf
+[750]Good Bye 2016.pdf
+[751]Технокубок 2017 - Ознакомительный Раунд 3.pdf
+[752]Codeforces Round #389 (Div. 2, Rated, Based on Technocup 2017 - Elimination Round 3).pdf
+[753]Testing Round #13.pdf
+[754]Codeforces Round #390 (Div. 2).pdf
+[755]8VC Venture Cup 2017 - Elimination Round.pdf
+[756]8VC Venture Cup 2017 - Final Round.pdf
+[757]Codecraft-17 and Codeforces Round #391 (Div. 1 + Div. 2, combined).pdf
+[758]Codeforces Round #392 (Div. 2).pdf
+[759]Codeforces Round #393 (Div. 1) (8VC Venture Cup 2017 - Final Round Div. 1 Edition).pdf
+[760]Codeforces Round #393 (Div. 2) (8VC Venture Cup 2017 - Final Round Div. 2 Edition).pdf
+[761]Codeforces Round #394 (Div. 2).pdf
+[762]Educational Codeforces Round 17.pdf
+[763]Codeforces Round #395 (Div. 1).pdf
+[764]Codeforces Round #395 (Div. 2).pdf
+[765]Codeforces Round #397 by Kaspersky Lab and Barcelona Bootcamp (Div. 1 + Div. 2 combined).pdf
+[766]Codeforces Round #396 (Div. 2).pdf
+[767]Codeforces Round #398 (Div. 2).pdf
+[768]Divide by Zero 2017 and Codeforces Round #399 (Div. 1 + Div. 2, combined).pdf
+[769]VK Cup 2017 - Квалификация 1.pdf
+[770]VK Cup 2017 - Квалификация 2.pdf
+[776]ICM Technex 2017 and Codeforces Round #400 (Div. 1 + Div. 2, combined).pdf
+[777]Codeforces Round #401 (Div. 2).pdf
+[778]Codeforces Round #402 (Div. 1).pdf
+[779]Codeforces Round #402 (Div. 2).pdf
+[780]Технокубок 2017 - Финал (только для онсайт-финалистов).pdf
+[781]Codeforces Round #403 (Div. 1, based on Technocup 2017 Finals).pdf
+[782]Codeforces Round #403 (Div. 2, based on Technocup 2017 Finals).pdf
+[785]Codeforces Round #404 (Div. 2).pdf
