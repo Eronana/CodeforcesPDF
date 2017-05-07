@@ -770,3 +770,22 @@ list.txt
 [781]Codeforces Round #403 (Div. 1, based on Technocup 2017 Finals).pdf
 [782]Codeforces Round #403 (Div. 2, based on Technocup 2017 Finals).pdf
 [785]Codeforces Round #404 (Div. 2).pdf
+[786]Codeforces Round #406 (Div. 1).pdf
+[787]Codeforces Round #406 (Div. 2).pdf
+[788]Codeforces Round #407 (Div. 1).pdf
+[789]Codeforces Round #407 (Div. 2).pdf
+[790]Codeforces Round #405 (rated, Div. 1, based on VK Cup 2017 Round 1).pdf
+[791]Codeforces Round #405 (rated, Div. 2, based on VK Cup 2017 Round 1).pdf
+[792]Educational Codeforces Round 18.pdf
+[793]Tinkoff Challenge - Elimination Round.pdf
+[795]VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror).pdf
+[796]Codeforces Round #408 (Div. 2).pdf
+[797]Educational Codeforces Round 19.pdf
+[798]Codeforces Round #410 (Div. 2).pdf
+[800]Codeforces Round #409 (rated, Div. 1, based on VK Cup 2017 Round 2).pdf
+
+[801-900]:
+[801]Codeforces Round #409 (rated, Div. 2, based on VK Cup 2017 Round 2).pdf
+[803]Educational Codeforces Round 20.pdf
+[804]Codeforces Round #411 (Div. 1).pdf
+[805]Codeforces Round #411 (Div. 2).pdf
