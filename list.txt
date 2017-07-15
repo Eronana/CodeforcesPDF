@@ -1,7 +1,17 @@
-README.md
+.:
+[001-100]/
+[101-200]/
+[201-300]/
+[301-400]/
+[401-500]/
+[501-600]/
+[601-700]/
+[701-800]/
+[801-900]/
 list.txt
+README.md
 
-[001-100]:
+./[001-100]:
 [001]Codeforces Beta Round #1.pdf
 [002]Codeforces Beta Round #2.pdf
 [003]Codeforces Beta Round #3.pdf
@@ -39,7 +49,7 @@ list.txt
 [035]Codeforces Beta Round #35 (Div. 2).pdf
 [036]Codeforces Beta Round #36.pdf
 [037]Codeforces Beta Round #37.pdf
-[038]School Personal Contest #1 (Winter Computer School 2010_11)<br_>-<br_>Codeforces Beta Round #38 (ACM-ICPC Rules).pdf
+[038]School Personal Contest #1 (Winter Computer School 2010_11)-Codeforces Beta Round #38 (ACM-ICPC Rules).pdf
 [039]School Team Contest #1 (Winter Computer School 2010_11).pdf
 [040]Codeforces Beta Round #39.pdf
 [041]Codeforces Beta Round #40 (Div. 2).pdf
@@ -47,9 +57,9 @@ list.txt
 [043]Codeforces Beta Round #42 (Div. 2).pdf
 [044]School Team Contest #2 (Winter Computer School 2010_11).pdf
 [045]School Team Contest #3 (Winter Computer School 2010_11).pdf
-[046]School Personal Contest #2 (Winter Computer School 2010_11)<br>-<br>Codeforces Beta Round #43 (ACM-ICPC Rules).pdf
+[046]School Personal Contest #2 (Winter Computer School 2010_11)-Codeforces Beta Round #43 (ACM-ICPC Rules).pdf
 [047]Codeforces Beta Round #44 (Div. 2).pdf
-[048]School Personal Contest #3 (Winter Computer School 2010_11)<br>-<br>Codeforces Beta Round #45 (ACM-ICPC Rules).pdf
+[048]School Personal Contest #3 (Winter Computer School 2010_11)-Codeforces Beta Round #45 (ACM-ICPC Rules).pdf
 [049]Codeforces Beta Round #46 (Div. 2).pdf
 [050]Codeforces Beta Round #47.pdf
 [051]Codeforces Beta Round #48.pdf
@@ -82,12 +92,12 @@ list.txt
 [078]Codeforces Beta Round #70 (Div. 2).pdf
 [079]Codeforces Beta Round #71.pdf
 [080]Codeforces Beta Round #69 (Div. 2 Only).pdf
-[081]Yandex.Algorithm Open 2011<br>Qualification 1.pdf
-[082]Yandex.Algorithm 2011<br>Qualification 2.pdf
+[081]Yandex.Algorithm Open 2011Qualification 1.pdf
+[082]Yandex.Algorithm 2011Qualification 2.pdf
 [083]Codeforces Beta Round #72 (Div. 1 Only).pdf
 [084]Codeforces Beta Round #72 (Div. 2 Only).pdf
-[085]Yandex.Algorithm 2011<br>Round 1.pdf
-[086]Yandex.Algorithm 2011<br>Round 2.pdf
+[085]Yandex.Algorithm 2011Round 1.pdf
+[086]Yandex.Algorithm 2011Round 2.pdf
 [087]Codeforces Beta Round #73 (Div. 1 Only).pdf
 [088]Codeforces Beta Round #73 (Div. 2 Only).pdf
 [089]Codeforces Beta Round #74 (Div. 1 Only).pdf
@@ -98,12 +108,12 @@ list.txt
 [094]Codeforces Beta Round #76 (Div. 2 Only).pdf
 [095]Codeforces Beta Round #77 (Div. 1 Only).pdf
 [096]Codeforces Beta Round #77 (Div. 2 Only).pdf
-[097]Yandex.Algorithm 2011<br>Finals.pdf
+[097]Yandex.Algorithm 2011Finals.pdf
 [098]Codeforces Beta Round #78 (Div. 1 Only).pdf
 [099]Codeforces Beta Round #78 (Div. 2 Only).pdf
 [100]Unknown Language Round #3.pdf
 
-[101-200]:
+./[101-200]:
 [101]Codeforces Beta Round #79 (Div. 1 Only).pdf
 [102]Codeforces Beta Round #79 (Div. 2 Only).pdf
 [103]Codeforces Beta Round #80 (Div. 1 Only).pdf
@@ -204,7 +214,7 @@ list.txt
 [199]Codeforces Round #125 (Div. 2).pdf
 [200]Codeforces Round #126 (Div. 2).pdf
 
-[201-300]:
+./[201-300]:
 [201]Codeforces Round #127 (Div. 1).pdf
 [202]Codeforces Round #127 (Div. 2).pdf
 [203]Codeforces Round #128 (Div. 2).pdf
@@ -305,7 +315,7 @@ list.txt
 [299]Croc Champ 2013 - Round 2 (Div. 2 Edition).pdf
 [300]Codeforces Round #181 (Div. 2).pdf
 
-[301-400]:
+./[301-400]:
 [301]Codeforces Round #182 (Div. 1).pdf
 [302]Codeforces Round #182 (Div. 2).pdf
 [303]Codeforces Round #183 (Div. 1).pdf
@@ -405,7 +415,7 @@ list.txt
 [399]Codeforces Round #233 (Div. 2).pdf
 [400]Codeforces Round #234 (Div. 2).pdf
 
-[401-500]:
+./[401-500]:
 [401]Codeforces Round #235 (Div. 2).pdf
 [402]Codeforces Round #236 (Div. 2).pdf
 [403]Codeforces Round #236 (Div. 1).pdf
@@ -501,7 +511,7 @@ list.txt
 [499]Codeforces Round #284 (Div. 2).pdf
 [500]Good Bye 2014.pdf
 
-[501-600]:
+./[501-600]:
 [501]Codeforces Round #285 (Div. 2).pdf
 [504]Codeforces Round #285 (Div. 1).pdf
 [505]Codeforces Round #286 (Div. 2).pdf
@@ -595,7 +605,7 @@ list.txt
 [599]Codeforces Round #332 (Div. 2).pdf
 [600]Educational Codeforces Round 2.pdf
 
-[601-700]:
+./[601-700]:
 [601]Codeforces Round #333 (Div. 1).pdf
 [602]Codeforces Round #333 (Div. 2).pdf
 [603]Codeforces Round #334 (Div. 1).pdf
@@ -624,7 +634,7 @@ list.txt
 [627]8VC Venture Cup 2016 - Final Round.pdf
 [628]Educational Codeforces Round 8.pdf
 [629]Codeforces Round #343 (Div. 2).pdf
-[630]Experimental Educational Round: VolBIT Formulas Blitz.pdf
+[630]Experimental Educational Round
 [631]Codeforces Round #344 (Div. 2).pdf
 [632]Educational Codeforces Round 9.pdf
 [633]Manthan, Codefest 16.pdf
@@ -641,10 +651,10 @@ list.txt
 [643]VK Cup 2016 - Round 3.pdf
 [644]CROC 2016 - Qualification.pdf
 [645]CROC 2016 - Elimination Round.pdf
-[646]Технокубок 2016 - Ознакомительный Раунд 1.pdf
-[647]Технокубок 2016 - Ознакомительный Раунд 2.pdf
-[648]Технокубок 2016 - Отборочный Раунд 1.pdf
-[649]Технокубок 2016 - Отборочный Раунд 2.pdf
+[646]Технокубок 2016 - Ознакомительный Раунд 1.pdf
+[647]Технокубок 2016 - Ознакомительный Раунд 2.pdf
+[648]Технокубок 2016 - Отборочный Раунд 1.pdf
+[649]Технокубок 2016 - Отборочный Раунд 2.pdf
 [650]Codeforces Round #345 (Div. 1).pdf
 [651]Codeforces Round #345 (Div. 2).pdf
 [652]Educational Codeforces Round 10.pdf
@@ -693,7 +703,7 @@ list.txt
 [699]Codeforces Round #363 (Div. 2).pdf
 [700]Codeforces Round #364 (Div. 1).pdf
 
-[701-800]:
+./[701-800]:
 [701]Codeforces Round #364 (Div. 2).pdf
 [702]Educational Codeforces Round 15.pdf
 [703]Codeforces Round #365 (Div. 2).pdf
@@ -742,7 +752,7 @@ list.txt
 [748]Technocup 2017 - Elimination Round 3.pdf
 [749]Codeforces Round #388 (Div. 2).pdf
 [750]Good Bye 2016.pdf
-[751]Технокубок 2017 - Ознакомительный Раунд 3.pdf
+[751]Технокубок 2017 - Ознакомительный Раунд 3.pdf
 [752]Codeforces Round #389 (Div. 2, Rated, Based on Technocup 2017 - Elimination Round 3).pdf
 [753]Testing Round #13.pdf
 [754]Codeforces Round #390 (Div. 2).pdf
@@ -766,7 +776,7 @@ list.txt
 [777]Codeforces Round #401 (Div. 2).pdf
 [778]Codeforces Round #402 (Div. 1).pdf
 [779]Codeforces Round #402 (Div. 2).pdf
-[780]Технокубок 2017 - Финал (только для онсайт-финалистов).pdf
+[780]Технокубок 2017 - Финал (только для онсайт-финалистов).pdf
 [781]Codeforces Round #403 (Div. 1, based on Technocup 2017 Finals).pdf
 [782]Codeforces Round #403 (Div. 2, based on Technocup 2017 Finals).pdf
 [785]Codeforces Round #404 (Div. 2).pdf
@@ -784,8 +794,30 @@ list.txt
 [798]Codeforces Round #410 (Div. 2).pdf
 [800]Codeforces Round #409 (rated, Div. 1, based on VK Cup 2017 Round 2).pdf
 
-[801-900]:
+./[801-900]:
 [801]Codeforces Round #409 (rated, Div. 2, based on VK Cup 2017 Round 2).pdf
 [803]Educational Codeforces Round 20.pdf
 [804]Codeforces Round #411 (Div. 1).pdf
 [805]Codeforces Round #411 (Div. 2).pdf
+[806]Codeforces Round #412 (rated, Div. 1, based on VK Cup 2017 Round 3).pdf
+[807]Codeforces Round #412 (rated, Div. 2, base on VK Cup 2017 Round 3).pdf
+[808]Educational Codeforces Round 21.pdf
+[809]Codeforces Round #415 (Div. 1).pdf
+[810]Codeforces Round #415 (Div. 2).pdf
+[811]Codeforces Round #416 (Div. 2).pdf
+[812]Codeforces Round #417 (Div. 2).pdf
+[813]Educational Codeforces Round 22.pdf
+[814]Codeforces Round #418 (Div. 2).pdf
+[815]Codeforces Round #419 (Div. 1).pdf
+[816]Codeforces Round #419 (Div. 2).pdf
+[817]Educational Codeforces Round 23.pdf
+[818]Educational Codeforces Round 24.pdf
+[819]Codeforces Round #421 (Div. 1).pdf
+[820]Codeforces Round #421 (Div. 2).pdf
+[821]Codeforces Round #420 (Div. 2).pdf
+[822]Codeforces Round #422 (Div. 2).pdf
+[823]VK Cup 2017 - Finals.pdf
+[827]Codeforces Round #423 (Div. 1, rated, based on VK Cup Finals).pdf
+[828]Codeforces Round #423 (Div. 2, rated, based on VK Cup Finals).pdf
+[830]Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals).pdf
+[831]Codeforces Round #424 (Div. 2, rated, based on VK Cup Finals).pdf
