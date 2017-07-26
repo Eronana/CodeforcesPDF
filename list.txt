@@ -821,3 +821,4 @@ README.md
 [828]Codeforces Round #423 (Div. 2, rated, based on VK Cup Finals).pdf
 [830]Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals).pdf
 [831]Codeforces Round #424 (Div. 2, rated, based on VK Cup Finals).pdf
+[832]Codeforces Round #425 (Div. 2).pdf
