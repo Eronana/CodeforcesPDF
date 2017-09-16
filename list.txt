@@ -807,7 +807,23 @@
 [835]Codeforces Round #427 (Div. 2).pdf
 [837]Educational Codeforces Round 26.pdf
 [838]IndiaHacks 2nd Elimination 2017 (unofficial, unrated mirror, ICPC rules).pdf
+[839]Codeforces Round #428 (Div. 2).pdf
+[840]Codeforces Round #429 (Div. 1).pdf
+[841]Codeforces Round #429 (Div. 2).pdf
+[842]Codeforces Round #430 (Div. 2).pdf
+[843]AIM Tech Round 4 (Div. 1).pdf
+[844]AIM Tech Round 4 (Div. 2).pdf
+[845]Educational Codeforces Round 27.pdf
+[846]Educational Codeforces Round 28.pdf
+[848]Codeforces Round #431 (Div. 1).pdf
+[849]Codeforces Round #431 (Div. 2).pdf
+[850]Codeforces Round #432 (Div. 1, based on IndiaHacks Final Round 2017).pdf
+[851]Codeforces Round #432 (Div. 2, based on IndiaHacks Final Round 2017).pdf
+[852]Bubble Cup X - Finals [Online Mirror].pdf
+[853]Codeforces Round #433 (Div. 1, based on Olympiad of Metropolises).pdf
+[854]Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises).pdf
+[856]Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed].pdf
 list.txt
 README.md
 
-9 directories, 801 files
+9 directories, 817 files
