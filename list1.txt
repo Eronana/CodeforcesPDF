@@ -1,6 +1,7 @@
 .:
 README.md
 [0m[01;34m[001-100][0m/
+[01;34m[1001-1100][0m/
 [01;34m[101-200][0m/
 [01;34m[201-300][0m/
 [01;34m[301-400][0m/
@@ -11,6 +12,7 @@ README.md
 [01;34m[801-900][0m/
 [01;34m[901-1000][0m/
 list.txt
+list1.txt
 
 ./[001-100]:
 [001]Codeforces Beta Round #1.pdf
@@ -113,6 +115,12 @@ list.txt
 [098]Codeforces Beta Round #78 (Div. 1 Only).pdf
 [099]Codeforces Beta Round #78 (Div. 2 Only).pdf
 [100]Unknown Language Round #3.pdf
+
+./[1001-1100]:
+[1002]Microsoft Q# Coding Contest - Summer 2018.pdf
+[1003]Codeforces Round #494 (Div. 3).pdf
+[1004]Codeforces Round #495 (Div. 2).pdf
+[1005]Codeforces Round #496 (Div. 3).pdf
 
 ./[101-200]:
 [101]Codeforces Beta Round #79 (Div. 1 Only).pdf
@@ -879,6 +887,7 @@ list.txt
 [900]Codeforces Round #450 (Div. 2).pdf
 
 ./[901-1000]:
+[1000]Educational Codeforces Round 46 (Rated for Div. 2).pdf
 [901]Codeforces Round #453 (Div. 1).pdf
 [902]Codeforces Round #453 (Div. 2).pdf
 [903]Educational Codeforces Round 34 (Rated for Div. 2).pdf
@@ -896,3 +905,72 @@ list.txt
 [916]Codeforces Round #457 (Div. 2).pdf
 [917]Codeforces Round #459 (Div. 1).pdf
 [918]Codeforces Round #459 (Div. 2).pdf
+[919]Codeforces Round #460 (Div. 2).pdf
+[920]Educational Codeforces Round 37 (Rated for Div. 2).pdf
+[921]AIM Tech Mini Marathon 1.pdf
+[922]Codeforces Round #461 (Div. 2).pdf
+[923]VK Cup 2018 - Round 1.pdf
+[924]VK Cup 2018 - Round 2.pdf
+[925]VK Cup 2018 - Round 3.pdf
+[926]VK Cup 2018 - Wild-card Round 1.pdf
+[927]VK Cup 2018 - Wild-card Round 2.pdf
+[928]VK Cup 2018 - 袣胁邪谢懈褎懈泻邪褑懈褟 1.pdf
+[929]VK Cup 2018 - 袣胁邪谢懈褎懈泻邪褑懈褟 2.pdf
+[930]Codeforces Round #468 (Div. 1, based on Technocup 2018 Final Round).pdf
+[931]Codeforces Round #468 (Div. 2, based on Technocup 2018 Final Round).pdf
+[932]ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined).pdf
+[933]Codeforces Round #462 (Div. 1).pdf
+[934]Codeforces Round #462 (Div. 2).pdf
+[935]Codeforces Round #465 (Div. 2).pdf
+[936]Codeforces Round #467 (Div. 1).pdf
+[937]Codeforces Round #467 (Div. 2).pdf
+[938]Educational Codeforces Round 38 (Rated for Div. 2).pdf
+[939]Codeforces Round #464 (Div. 2).pdf
+[940]Codeforces Round #466 (Div. 2).pdf
+[944]孝械褏薪芯泻褍斜芯泻 2018 - 肖懈薪邪谢 (褌芯谢褜泻芯 写谢褟 芯薪褋邪泄褌-褎懈薪邪谢懈褋褌芯胁).pdf
+[946]Educational Codeforces Round 39 (Rated for Div. 2).pdf
+[947]Codeforces Round #470 (rated, Div. 1, based on VK Cup 2018 Round 1).pdf
+[948]Codeforces Round #470 (rated, Div. 2, based on VK Cup 2018 Round 1).pdf
+[949]Codeforces Round #469 (Div. 1).pdf
+[950]Codeforces Round #469 (Div. 2).pdf
+[952]April Fools Contest 2018.pdf
+[953]VK Cup 2018 - Wild-card Round 1 (unofficial unrated mirror).pdf
+[954]Educational Codeforces Round 40 (Rated for Div. 2).pdf
+[955]Codeforces Round #471 (Div. 2).pdf
+[956]Codeforces Round #472 (rated, Div. 1, based on VK Cup 2018 Round 2).pdf
+[957]Codeforces Round #472 (rated, Div. 2, based on VK Cup 2018 Round 2).pdf
+[958]Helvetic Coding Contest 2018 online mirror (teams allowed, unrated).pdf
+[959]Codeforces Round #473 (Div. 2).pdf
+[960]Divide by Zero 2018 and Codeforces Round #474 (Div. 1 + Div. 2, combined).pdf
+[961]Educational Codeforces Round 41 (Rated for Div. 2).pdf
+[962]Educational Codeforces Round 42 (Rated for Div. 2).pdf
+[963]Tinkoff Internship Warmup Round 2018 and Codeforces Round #475 (Div. 1).pdf
+[964]Tinkoff Internship Warmup Round 2018 and Codeforces Round #475 (Div. 2).pdf
+[965]Codeforces Round #476 (Div. 2) [Thanks, Telegram!].pdf
+[966]Codeforces Round #477 (rated, Div. 1, based on VK Cup 2018 Round 3).pdf
+[967]Codeforces Round #477 (rated, Div. 2, based on VK Cup 2018 Round 3).pdf
+[975]Codeforces Round #478 (Div. 2).pdf
+[976]Educational Codeforces Round 43 (Rated for Div. 2).pdf
+[977]Codeforces Round #479 (Div. 3).pdf
+[978]Codeforces Round #481 (Div. 3).pdf
+[979]Codeforces Round #482 (Div. 2).pdf
+[980]Codeforces Round #480 (Div. 2).pdf
+[981]Avito Code Challenge 2018.pdf
+[982]Codeforces Round #484 (Div. 2).pdf
+[983]Codeforces Round #483 (Div. 1) [Thanks, Botan Investments and Victor Shaburov!].pdf
+[984]Codeforces Round #483 (Div. 2) [Thanks, Botan Investments and Victor Shaburov!].pdf
+[985]Educational Codeforces Round 44 (Rated for Div. 2).pdf
+[986]Codeforces Round #485 (Div. 1).pdf
+[987]Codeforces Round #485 (Div. 2).pdf
+[988]Codeforces Round #486 (Div. 3).pdf
+[989]Codeforces Round #487 (Div. 2).pdf
+[990]Educational Codeforces Round 45 (Rated for Div. 2).pdf
+[991]Codeforces Round #491 (Div. 2).pdf
+[992]Codeforces Round #489 (Div. 2).pdf
+[993]Codeforces Round #488 by NEAR (Div. 1).pdf
+[994]Codeforces Round #488 by NEAR (Div. 2).pdf
+[995]Codeforces Round #492 (Div. 1) [Thanks, uDebug!].pdf
+[996]Codeforces Round #492 (Div. 2) [Thanks, uDebug!].pdf
+[997]Codeforces Round #493 (Div. 1).pdf
+[998]Codeforces Round #493 (Div. 2).pdf
+[999]Codeforces Round #490 (Div. 3).pdf
