@@ -1,0 +1,1609 @@
+.
+├── README.md
+├── [001-100]
+│   ├── [001]Codeforces Beta Round #1.pdf
+│   ├── [002]Codeforces Beta Round #2.pdf
+│   ├── [003]Codeforces Beta Round #3.pdf
+│   ├── [004]Codeforces Beta Round #4 (Div. 2 Only).pdf
+│   ├── [005]Codeforces Beta Round #5.pdf
+│   ├── [006]Codeforces Beta Round #6 (Div. 2 Only).pdf
+│   ├── [007]Codeforces Beta Round #7.pdf
+│   ├── [008]Codeforces Beta Round #8.pdf
+│   ├── [009]Codeforces Beta Round #9 (Div. 2 Only).pdf
+│   ├── [010]Codeforces Beta Round #10.pdf
+│   ├── [011]Codeforces Beta Round #11.pdf
+│   ├── [012]Codeforces Beta Round #12 (Div 2 Only).pdf
+│   ├── [013]Codeforces Beta Round #13.pdf
+│   ├── [014]Codeforces Beta Round #14 (Div. 2).pdf
+│   ├── [015]Codeforces Beta Round #15.pdf
+│   ├── [016]Codeforces Beta Round #16 (Div. 2 Only).pdf
+│   ├── [017]Codeforces Beta Round #17.pdf
+│   ├── [018]Codeforces Beta Round #18 (Div. 2 Only).pdf
+│   ├── [019]Codeforces Beta Round #19.pdf
+│   ├── [020]Codeforces Alpha Round #20 (Codeforces format).pdf
+│   ├── [021]Codeforces Alpha Round #21 (Codeforces format).pdf
+│   ├── [022]Codeforces Beta Round #22 (Div. 2 Only).pdf
+│   ├── [023]Codeforces Beta Round #23.pdf
+│   ├── [024]Codeforces Beta Round #24.pdf
+│   ├── [025]Codeforces Beta Round #25 (Div. 2 Only).pdf
+│   ├── [026]Codeforces Beta Round #26 (Codeforces format).pdf
+│   ├── [027]Codeforces Beta Round #27 (Codeforces format, Div. 2).pdf
+│   ├── [028]Codeforces Beta Round #28 (Codeforces format).pdf
+│   ├── [029]Codeforces Beta Round #29 (Div. 2, Codeforces format).pdf
+│   ├── [030]Codeforces Beta Round #30 (Codeforces format).pdf
+│   ├── [031]Codeforces Beta Round #31 (Div. 2, Codeforces format).pdf
+│   ├── [032]Codeforces Beta Round #32 (Div. 2, Codeforces format).pdf
+│   ├── [033]Codeforces Beta Round #33 (Codeforces format).pdf
+│   ├── [034]Codeforces Beta Round #34 (Div. 2).pdf
+│   ├── [035]Codeforces Beta Round #35 (Div. 2).pdf
+│   ├── [036]Codeforces Beta Round #36.pdf
+│   ├── [037]Codeforces Beta Round #37.pdf
+│   ├── [038]School Personal Contest #1 (Winter Computer School 2010_11)-Codeforces Beta Round #38 (ACM-ICPC Rules).pdf
+│   ├── [039]School Team Contest #1 (Winter Computer School 2010_11).pdf
+│   ├── [040]Codeforces Beta Round #39.pdf
+│   ├── [041]Codeforces Beta Round #40 (Div. 2).pdf
+│   ├── [042]Codeforces Beta Round #41.pdf
+│   ├── [043]Codeforces Beta Round #42 (Div. 2).pdf
+│   ├── [044]School Team Contest #2 (Winter Computer School 2010_11).pdf
+│   ├── [045]School Team Contest #3 (Winter Computer School 2010_11).pdf
+│   ├── [046]School Personal Contest #2 (Winter Computer School 2010_11)-Codeforces Beta Round #43 (ACM-ICPC Rules).pdf
+│   ├── [047]Codeforces Beta Round #44 (Div. 2).pdf
+│   ├── [048]School Personal Contest #3 (Winter Computer School 2010_11)-Codeforces Beta Round #45 (ACM-ICPC Rules).pdf
+│   ├── [049]Codeforces Beta Round #46 (Div. 2).pdf
+│   ├── [050]Codeforces Beta Round #47.pdf
+│   ├── [051]Codeforces Beta Round #48.pdf
+│   ├── [052]Codeforces Testing Round #1.pdf
+│   ├── [053]Codeforces Beta Round #49 (Div. 2).pdf
+│   ├── [054]Codeforces Beta Round #50.pdf
+│   ├── [055]Codeforces Beta Round #51.pdf
+│   ├── [056]Codeforces Beta Round #52 (Div. 2).pdf
+│   ├── [057]Codeforces Beta Round #53.pdf
+│   ├── [058]Codeforces Beta Round #54 (Div. 2).pdf
+│   ├── [059]Codeforces Beta Round #55 (Div. 2).pdf
+│   ├── [060]Codeforces Beta Round #56.pdf
+│   ├── [061]Codeforces Beta Round #57 (Div. 2).pdf
+│   ├── [062]Codeforces Beta Round #58.pdf
+│   ├── [063]Codeforces Beta Round #59 (Div. 2).pdf
+│   ├── [064]Unknown Language Round #1.pdf
+│   ├── [065]Codeforces Beta Round #60.pdf
+│   ├── [066]Codeforces Beta Round #61 (Div. 2).pdf
+│   ├── [067]Manthan 2011.pdf
+│   ├── [068]Codeforces Beta Round #62.pdf
+│   ├── [069]Codeforces Beta Round #63 (Div. 2).pdf
+│   ├── [070]Codeforces Beta Round #64.pdf
+│   ├── [071]Codeforces Beta Round #65 (Div. 2).pdf
+│   ├── [072]Unknown Language Round #2.pdf
+│   ├── [073]Codeforces Beta Round #66.pdf
+│   ├── [074]Codeforces Beta Round #68.pdf
+│   ├── [075]Codeforces Beta Round #67 (Div. 2).pdf
+│   ├── [076]All-Ukrainian School Olympiad in Informatics.pdf
+│   ├── [077]Codeforces Beta Round #69 (Div. 1 Only).pdf
+│   ├── [078]Codeforces Beta Round #70 (Div. 2).pdf
+│   ├── [079]Codeforces Beta Round #71.pdf
+│   ├── [080]Codeforces Beta Round #69 (Div. 2 Only).pdf
+│   ├── [081]Yandex.Algorithm Open 2011Qualification 1.pdf
+│   ├── [082]Yandex.Algorithm 2011Qualification 2.pdf
+│   ├── [083]Codeforces Beta Round #72 (Div. 1 Only).pdf
+│   ├── [084]Codeforces Beta Round #72 (Div. 2 Only).pdf
+│   ├── [085]Yandex.Algorithm 2011Round 1.pdf
+│   ├── [086]Yandex.Algorithm 2011Round 2.pdf
+│   ├── [087]Codeforces Beta Round #73 (Div. 1 Only).pdf
+│   ├── [088]Codeforces Beta Round #73 (Div. 2 Only).pdf
+│   ├── [089]Codeforces Beta Round #74 (Div. 1 Only).pdf
+│   ├── [090]Codeforces Beta Round #74 (Div. 2 Only).pdf
+│   ├── [091]Codeforces Beta Round #75 (Div. 1 Only).pdf
+│   ├── [092]Codeforces Beta Round #75 (Div. 2 Only).pdf
+│   ├── [093]Codeforces Beta Round #76 (Div. 1 Only).pdf
+│   ├── [094]Codeforces Beta Round #76 (Div. 2 Only).pdf
+│   ├── [095]Codeforces Beta Round #77 (Div. 1 Only).pdf
+│   ├── [096]Codeforces Beta Round #77 (Div. 2 Only).pdf
+│   ├── [097]Yandex.Algorithm 2011Finals.pdf
+│   ├── [098]Codeforces Beta Round #78 (Div. 1 Only).pdf
+│   ├── [099]Codeforces Beta Round #78 (Div. 2 Only).pdf
+│   └── [100]Unknown Language Round #3.pdf
+├── [1001-1100]
+│   ├── [1002]Microsoft Q# Coding Contest - Summer 2018.pdf
+│   ├── [1003]Codeforces Round #494 (Div. 3).pdf
+│   ├── [1004]Codeforces Round #495 (Div. 2).pdf
+│   ├── [1005]Codeforces Round #496 (Div. 3).pdf
+│   ├── [1006]Codeforces Round #498 (Div. 3).pdf
+│   ├── [1007]Codeforces Round #497 (Div. 1).pdf
+│   ├── [1008]Codeforces Round #497 (Div. 2).pdf
+│   ├── [1009]Educational Codeforces Round 47 (Rated for Div. 2).pdf
+│   ├── [1010]Codeforces Round #499 (Div. 1).pdf
+│   ├── [1011]Codeforces Round #499 (Div. 2).pdf
+│   ├── [1012]Codeforces Round #500 (Div. 1) [based on EJOI].pdf
+│   ├── [1013]Codeforces Round #500 (Div. 2) [based on EJOI].pdf
+│   ├── [1014]Codeforces Marathon Round 2.pdf
+│   ├── [1015]Codeforces Round #501 (Div. 3).pdf
+│   ├── [1016]Educational Codeforces Round 48 (Rated for Div. 2).pdf
+│   ├── [1017]Codeforces Round #502 (in memory of Leopoldo Taravilse, Div. 1 + Div. 2).pdf
+│   ├── [1019]Codeforces Round #503 (by SIS, Div. 1).pdf
+│   ├── [1020]Codeforces Round #503 (by SIS, Div. 2).pdf
+│   ├── [1023]Codeforces Round #504 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final).pdf
+│   ├── [1025]Codeforces Round #505 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final).pdf
+│   ├── [1027]Educational Codeforces Round 49 (Rated for Div. 2).pdf
+│   ├── [1028]AIM Tech Round 5 (rated, Div. 1 + Div. 2).pdf
+│   ├── [1029]Codeforces Round #506 (Div. 3).pdf
+│   ├── [1030]Technocup 2019 - Elimination Round 1.pdf
+│   ├── [1031]Technocup 2019 - Elimination Round 2.pdf
+│   ├── [1032]Technocup 2019 - Elimination Round 3.pdf
+│   ├── [1033]Lyft Level 5 Challenge 2018 - Elimination Round.pdf
+│   ├── [1034]Codeforces Round #511 (Div. 1).pdf
+│   ├── [1036]Educational Codeforces Round 50 (Rated for Div. 2).pdf
+│   ├── [1037]Manthan, Codefest 18 (rated, Div. 1 + Div. 2).pdf
+│   ├── [1038]Codeforces Round #508 (Div. 2).pdf
+│   ├── [1039]Codeforces Round #507 (Div. 1, based on Olympiad of Metropolises).pdf
+│   ├── [1040]Codeforces Round #507 (Div. 2, based on Olympiad of Metropolises).pdf
+│   ├── [1041]Codeforces Round #509 (Div. 2).pdf
+│   ├── [1042]Codeforces Round #510 (Div. 2).pdf
+│   ├── [1043]Codeforces Round #519 by Botan Investments.pdf
+│   ├── [1044]Lyft Level 5 Challenge 2018 - Final Round.pdf
+│   ├── [1045]Bubble Cup 11 - Finals [Online Mirror, Div. 1].pdf
+│   ├── [1046]Bubble Cup 11 - Finals [Online Mirror, Div. 2].pdf
+│   ├── [1047]Codeforces Round #511 (Div. 2).pdf
+│   ├── [1051]Educational Codeforces Round 51 (Rated for Div. 2).pdf
+│   ├── [1052]Huawei Honorcup Marathon 1.pdf
+│   ├── [1053]Codeforces Round #512 (Div. 1, based on Technocup 2019 Elimination Round 1).pdf
+│   ├── [1054]Mail.Ru Cup 2018 Round 1.pdf
+│   ├── [1055]Mail.Ru Cup 2018 Round 2.pdf
+│   ├── [1056]Mail.Ru Cup 2018 Round 3.pdf
+│   ├── [1057]Mail.Ru Cup 2018 - Practice Round.pdf
+│   ├── [1058]Codeforces Round #512 (Div. 2, based on Technocup 2019 Elimination Round 1).pdf
+│   ├── [1059]Codeforces Round #514 (Div. 2).pdf
+│   ├── [1060]Codeforces Round #513 by Barcelona Bootcamp (rated, Div. 1 + Div. 2).pdf
+│   ├── [1061]Codeforces Round #523 (Div. 2).pdf
+│   ├── [1062]Codeforces Round #520 (Div. 2).pdf
+│   ├── [1063]Codeforces Round #516 (Div. 1, by Moscow Team Olympiad).pdf
+│   ├── [1065]Educational Codeforces Round 52 (Rated for Div. 2).pdf
+│   ├── [1066]Codeforces Round #515 (Div. 3).pdf
+│   ├── [1067]Codeforces Round #518 (Div. 1) [Thanks, Mail.Ru!].pdf
+│   ├── [1068]Codeforces Round #518 (Div. 2) [Thanks, Mail.Ru!].pdf
+│   ├── [1070]2018-2019 ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred).pdf
+│   ├── [1071]Codeforces Round #517 (Div. 1, based on Technocup 2019 Elimination Round 2).pdf
+│   ├── [1072]Codeforces Round #517 (Div. 2, based on Technocup 2019 Elimination Round 2).pdf
+│   ├── [1073]Educational Codeforces Round 53 (Rated for Div. 2).pdf
+│   ├── [1074]Lyft Level 5 Challenge 2018 - Final Round (Open Div. 1).pdf
+│   ├── [1075]Lyft Level 5 Challenge 2018 - Final Round (Open Div. 2).pdf
+│   ├── [1076]Educational Codeforces Round 54 (Rated for Div. 2).pdf
+│   ├── [1077]Codeforces Round #521 (Div. 3).pdf
+│   ├── [1078]Codeforces Round #522 (Div. 1, based on Technocup 2019 Elimination Round 3).pdf
+│   ├── [1079]Codeforces Round #522 (Div. 2, based on Technocup 2019 Elimination Round 3).pdf
+│   ├── [1080]Codeforces Round #524 (Div. 2).pdf
+│   ├── [1081]Avito Cool Challenge 2018.pdf
+│   ├── [1082]Educational Codeforces Round 55 (Rated for Div. 2).pdf
+│   ├── [1083]Codeforces Round #526 (Div. 1).pdf
+│   ├── [1084]Codeforces Round #526 (Div. 2).pdf
+│   ├── [1085]Technocup 2019 - Elimination Round 4.pdf
+│   ├── [1086]Codeforces Round #528 (Div. 1, based on Technocup 2019 Elimination Round 4).pdf
+│   ├── [1087]Codeforces Round #528 (Div. 2, based on Technocup 2019 Elimination Round 4).pdf
+│   ├── [1088]Codeforces Round #525 (Div. 2).pdf
+│   ├── [1091]Good Bye 2018.pdf
+│   ├── [1092]Codeforces Round #527 (Div. 3).pdf
+│   ├── [1093]Educational Codeforces Round 56 (Rated for Div. 2).pdf
+│   ├── [1095]Codeforces Round #529 (Div. 3).pdf
+│   ├── [1096]Educational Codeforces Round 57 (Rated for Div. 2).pdf
+│   ├── [1097]Hello 2019.pdf
+│   ├── [1098]Codeforces Round #530 (Div. 1).pdf
+│   ├── [1099]Codeforces Round #530 (Div. 2).pdf
+│   └── [1100]Codeforces Round #532 (Div. 2).pdf
+├── [101-200]
+│   ├── [101]Codeforces Beta Round #79 (Div. 1 Only).pdf
+│   ├── [102]Codeforces Beta Round #79 (Div. 2 Only).pdf
+│   ├── [103]Codeforces Beta Round #80 (Div. 1 Only).pdf
+│   ├── [104]Codeforces Beta Round #80 (Div. 2 Only).pdf
+│   ├── [105]Codeforces Beta Round #81.pdf
+│   ├── [106]Codeforces Beta Round #82 (Div. 2).pdf
+│   ├── [107]Codeforces Beta Round #83 (Div. 1 Only).pdf
+│   ├── [108]Codeforces Beta Round #83 (Div. 2 Only).pdf
+│   ├── [109]Codeforces Beta Round #84 (Div. 1 Only).pdf
+│   ├── [110]Codeforces Beta Round #84 (Div. 2 Only).pdf
+│   ├── [111]Codeforces Beta Round #85 (Div. 1 Only).pdf
+│   ├── [112]Codeforces Beta Round #85 (Div. 2 Only).pdf
+│   ├── [113]Codeforces Beta Round #86 (Div. 1 Only).pdf
+│   ├── [114]Codeforces Beta Round #86 (Div. 2 Only).pdf
+│   ├── [115]Codeforces Beta Round #87 (Div. 1 Only).pdf
+│   ├── [116]Codeforces Beta Round #87 (Div. 2 Only).pdf
+│   ├── [117]Codeforces Beta Round #88.pdf
+│   ├── [118]Codeforces Beta Round #89 (Div. 2).pdf
+│   ├── [119]Codeforces Beta Round #90.pdf
+│   ├── [120]School Regional Team Contest, Saratov, 2011.pdf
+│   ├── [121]Codeforces Beta Round #91 (Div. 1 Only).pdf
+│   ├── [122]Codeforces Beta Round #91 (Div. 2 Only).pdf
+│   ├── [123]Codeforces Beta Round #92 (Div. 1 Only).pdf
+│   ├── [124]Codeforces Beta Round #92 (Div. 2 Only).pdf
+│   ├── [125]Codeforces Testing Round #2.pdf
+│   ├── [126]Codeforces Beta Round #93 (Div. 1 Only).pdf
+│   ├── [127]Codeforces Beta Round #93 (Div. 2 Only).pdf
+│   ├── [128]Codeforces Beta Round #94 (Div. 1 Only).pdf
+│   ├── [129]Codeforces Beta Round #94 (Div. 2 Only).pdf
+│   ├── [130]Unknown Language Round #4.pdf
+│   ├── [131]Codeforces Beta Round #95 (Div. 2).pdf
+│   ├── [132]Codeforces Beta Round #96 (Div. 1).pdf
+│   ├── [133]Codeforces Beta Round #96 (Div. 2).pdf
+│   ├── [134]Codeforces Testing Round #3.pdf
+│   ├── [135]Codeforces Beta Round #97 (Div. 1).pdf
+│   ├── [136]Codeforces Beta Round #97 (Div. 2).pdf
+│   ├── [137]Codeforces Beta Round #98 (Div. 2).pdf
+│   ├── [138]Codeforces Beta Round #99 (Div. 1).pdf
+│   ├── [139]Codeforces Beta Round #99 (Div. 2).pdf
+│   ├── [140]Codeforces Round #100.pdf
+│   ├── [141]Codeforces Round #101 (Div. 2).pdf
+│   ├── [142]Codeforces Round #102 (Div. 1).pdf
+│   ├── [143]Codeforces Round #102 (Div. 2).pdf
+│   ├── [144]Codeforces Round #103 (Div. 2).pdf
+│   ├── [145]Codeforces Round #104 (Div. 1).pdf
+│   ├── [146]Codeforces Round #104 (Div. 2).pdf
+│   ├── [147]Codeforces Testing Round #4.pdf
+│   ├── [148]Codeforces Round #105 (Div. 2).pdf
+│   ├── [149]Codeforces Round #106 (Div. 2).pdf
+│   ├── [150]Codeforces Round #107 (Div. 1).pdf
+│   ├── [151]Codeforces Round #107 (Div. 2).pdf
+│   ├── [152]Codeforces Round #108 (Div. 2).pdf
+│   ├── [153]Surprise Language Round #5.pdf
+│   ├── [154]Codeforces Round #109 (Div. 1).pdf
+│   ├── [155]Codeforces Round #109 (Div. 2).pdf
+│   ├── [156]Codeforces Round #110 (Div. 1).pdf
+│   ├── [157]Codeforces Round #110 (Div. 2).pdf
+│   ├── [158]VK Cup 2012 Qualification Round 1.pdf
+│   ├── [159]VK Cup 2012 Qualification Round 2.pdf
+│   ├── [160]Codeforces Round #111 (Div. 2).pdf
+│   ├── [161]VK Cup 2012 Round 1.pdf
+│   ├── [162]VK Cup 2012 Wild-card Round 1.pdf
+│   ├── [163]VK Cup 2012 Round 2.pdf
+│   ├── [164]VK Cup 2012 Round 3.pdf
+│   ├── [165]Codeforces Round #112 (Div. 2).pdf
+│   ├── [166]Codeforces Round #113 (Div. 2).pdf
+│   ├── [167]Codeforces Round #114 (Div. 1).pdf
+│   ├── [168]Codeforces Round #114 (Div. 2).pdf
+│   ├── [169]VK Cup 2012 Round 2 (Unofficial Div. 2 Edition).pdf
+│   ├── [170]VK Cup 2012 Wild-card Round 2.pdf
+│   ├── [171]April Fools Day Contest.pdf
+│   ├── [172]Croc Champ 2012 - Qualification Round.pdf
+│   ├── [173]Croc Champ 2012 - Round 1.pdf
+│   ├── [174]VK Cup 2012 Round 3 (Unofficial Div. 2 Edition).pdf
+│   ├── [175]Codeforces Round #115.pdf
+│   ├── [176]Croc Champ 2012 - Round 2.pdf
+│   ├── [177]ABBYY Cup 2.0 - Easy.pdf
+│   ├── [178]ABBYY Cup 2.0 - Hard.pdf
+│   ├── [179]RazMERiq 2012 (Private Contest).pdf
+│   ├── [180]Codeforces Round #116 (Div. 2, ACM-ICPC Rules).pdf
+│   ├── [181]Croc Champ 2012 - Round 2 (Unofficial Div. 2 Edition).pdf
+│   ├── [182]Codeforces Round #117 (Div. 2).pdf
+│   ├── [183]Croc Champ 2012 - Final.pdf
+│   ├── [185]Codeforces Round #118 (Div. 1).pdf
+│   ├── [186]Codeforces Round #118 (Div. 2).pdf
+│   ├── [187]Codeforces Round #119 (Div. 1).pdf
+│   ├── [188]Surprise Language Round #6.pdf
+│   ├── [189]Codeforces Round #119 (Div. 2).pdf
+│   ├── [190]Codeforces Round #120 (Div. 2).pdf
+│   ├── [191]Codeforces Round #121 (Div. 1).pdf
+│   ├── [192]Codeforces Round #121 (Div. 2).pdf
+│   ├── [193]Codeforces Round #122 (Div. 1).pdf
+│   ├── [194]Codeforces Round #122 (Div. 2).pdf
+│   ├── [195]Codeforces Round #123 (Div. 2).pdf
+│   ├── [196]Codeforces Round #124 (Div. 1).pdf
+│   ├── [197]Codeforces Round #124 (Div. 2).pdf
+│   ├── [198]Codeforces Round #125 (Div. 1).pdf
+│   ├── [199]Codeforces Round #125 (Div. 2).pdf
+│   └── [200]Codeforces Round #126 (Div. 2).pdf
+├── [1101-1200]
+│   ├── [1101]Educational Codeforces Round 58 (Rated for Div. 2).pdf
+│   ├── [1102]Codeforces Round #531 (Div. 3).pdf
+│   ├── [1103]Codeforces Round #534 (Div. 1).pdf
+│   ├── [1104]Codeforces Round #534 (Div. 2).pdf
+│   ├── [1105]Codeforces Round #533 (Div. 2).pdf
+│   ├── [1106]Codeforces Round #536 (Div. 2).pdf
+│   ├── [1107]Educational Codeforces Round 59 (Rated for Div. 2).pdf
+│   ├── [1108]Codeforces Round #535 (Div. 3).pdf
+│   ├── [1109]Codeforces Round #539 (Div. 1).pdf
+│   ├── [1110]Codeforces Global Round 1.pdf
+│   ├── [1111]CodeCraft-19 and Codeforces Round #537 (Div. 2).pdf
+│   ├── [1112]Technocup 2019 - Final.pdf
+│   ├── [1113]Codeforces Round #539 (Div. 2).pdf
+│   ├── [1114]Codeforces Round #538 (Div. 2).pdf
+│   ├── [1115]Microsoft Q# Coding Contest - Winter 2019 - Warmup.pdf
+│   ├── [1116]Microsoft Q# Coding Contest - Winter 2019.pdf
+│   ├── [1117]Educational Codeforces Round 60 (Rated for Div. 2).pdf
+│   ├── [1118]Codeforces Round #540 (Div. 3).pdf
+│   ├── [1119]Codeforces Global Round 2.pdf
+│   ├── [1120]Codeforces Round #543 (Div. 1, based on Technocup 2019 Final Round).pdf
+│   ├── [1121]Codeforces Round #543 (Div. 2, based on Technocup 2019 Final Round).pdf
+│   ├── [1129]Codeforces Round #542 [Alex Lopashev Thanks-Round] (Div. 1).pdf
+│   ├── [1130]Codeforces Round #542 [Alex Lopashev Thanks-Round] (Div. 2).pdf
+│   ├── [1131]Codeforces Round #541 (Div. 2).pdf
+│   ├── [1132]Educational Codeforces Round 61 (Rated for Div. 2).pdf
+│   ├── [1133]Codeforces Round #544 (Div. 3).pdf
+│   ├── [1136]Codeforces Round #546 (Div. 2).pdf
+│   ├── [1137]Codeforces Round #545 (Div. 1).pdf
+│   ├── [1138]Codeforces Round #545 (Div. 2).pdf
+│   ├── [1139]Codeforces Round #548 (Div. 2).pdf
+│   ├── [1140]Educational Codeforces Round 62 (Rated for Div. 2).pdf
+│   ├── [1141]Codeforces Round #547 (Div. 3).pdf
+│   ├── [1142]Codeforces Round #549 (Div. 1).pdf
+│   ├── [1143]Codeforces Round #549 (Div. 2).pdf
+│   ├── [1144]Codeforces Round #550 (Div. 3).pdf
+│   ├── [1145]April Fools Day Contest 2019.pdf
+│   ├── [1146]Forethought Future Cup - Elimination Round.pdf
+│   ├── [1147]Forethought Future Cup - Final Round (Onsite Finalists Only).pdf
+│   ├── [1148]Codeforces Global Round 3.pdf
+│   ├── [1149]Codeforces Round #556 (Div. 1).pdf
+│   ├── [1150]Codeforces Round #556 (Div. 2).pdf
+│   ├── [1151]Codeforces Round #553 (Div. 2).pdf
+│   ├── [1152]Codeforces Round #554 (Div. 2).pdf
+│   ├── [1153]Codeforces Round #551 (Div. 2).pdf
+│   ├── [1154]Codeforces Round #552 (Div. 3).pdf
+│   ├── [1155]Educational Codeforces Round 63 (Rated for Div. 2).pdf
+│   ├── [1156]Educational Codeforces Round 64 (Rated for Div. 2).pdf
+│   ├── [1157]Codeforces Round #555 (Div. 3).pdf
+│   ├── [1158]Codeforces Round #559 (Div. 1).pdf
+│   ├── [1159]Codeforces Round #559 (Div. 2).pdf
+│   ├── [1160]VRt Contest 2019 (marathon).pdf
+│   ├── [1161]Codeforces Round #557 (Div. 1) [based on Forethought Future Cup - Final Round].pdf
+│   ├── [1162]Codeforces Round #557 (Div. 2) [based on Forethought Future Cup - Final Round].pdf
+│   ├── [1163]Codeforces Round #558 (Div. 2).pdf
+│   ├── [1164]Mathforces: Tech Scouts Online Test 2018 (just fun and practice, unofficial, unrated).pdf
+│   ├── [1165]Codeforces Round #560 (Div. 3).pdf
+│   ├── [1166]Codeforces Round #561 (Div. 2).pdf
+│   ├── [1167]Educational Codeforces Round 65 (Rated for Div. 2).pdf
+│   ├── [1168]Codeforces Round #562 (Div. 1).pdf
+│   ├── [1169]Codeforces Round #562 (Div. 2).pdf
+│   ├── [1170]Kotlin Heroes: Episode 1.pdf
+│   ├── [1171]Kotlin Heroes: Practice 1.pdf
+│   ├── [1172]Codeforces Round #564 (Div. 1).pdf
+│   ├── [1173]Codeforces Round #564 (Div. 2).pdf
+│   ├── [1174]Codeforces Round #563 (Div. 2).pdf
+│   ├── [1175]Educational Codeforces Round 66 (Rated for Div. 2).pdf
+│   ├── [1176]Codeforces Round #565 (Div. 3).pdf
+│   ├── [1177]Testing Round #15 (Unrated).pdf
+│   ├── [1178]Codeforces Global Round 4.pdf
+│   ├── [1179]Codeforces Round #569 (Div. 1).pdf
+│   ├── [1180]Codeforces Round #569 (Div. 2).pdf
+│   ├── [1181]Codeforces Round #567 (Div. 2).pdf
+│   ├── [1182]Codeforces Round #566 (Div. 2).pdf
+│   ├── [1183]Codeforces Round #570 (Div. 3).pdf
+│   ├── [1184]Helvetic Coding Contest 2019 online mirror (teams allowed, unrated).pdf
+│   ├── [1185]Codeforces Round #568 (Div. 2).pdf
+│   ├── [1186]Codeforces Round #571 (Div. 2).pdf
+│   ├── [1187]Educational Codeforces Round 67 (Rated for Div. 2).pdf
+│   ├── [1188]Codeforces Round #572 (Div. 1).pdf
+│   ├── [1189]Codeforces Round #572 (Div. 2).pdf
+│   ├── [1190]Codeforces Round #573 (Div. 1).pdf
+│   ├── [1191]Codeforces Round #573 (Div. 2).pdf
+│   ├── [1192]CEOI 2019 day 1 online mirror (unrated, IOI format).pdf
+│   ├── [1193]CEOI 2019 day 2 online mirror (unrated, IOI format).pdf
+│   ├── [1194]Educational Codeforces Round 68 (Rated for Div. 2).pdf
+│   ├── [1195]Codeforces Round #574 (Div. 2).pdf
+│   ├── [1196]Codeforces Round #575 (Div. 3).pdf
+│   ├── [1197]Educational Codeforces Round 69 (Rated for Div. 2).pdf
+│   ├── [1198]Codeforces Round #576 (Div. 1).pdf
+│   ├── [1199]Codeforces Round #576 (Div. 2).pdf
+│   └── [1200]Codeforces Round #578 (Div. 2).pdf
+├── [1201-1300]
+│   ├── [1201]Codeforces Round #577 (Div. 2).pdf
+│   ├── [1202]Educational Codeforces Round 70 (Rated for Div. 2).pdf
+│   ├── [1203]Codeforces Round #579 (Div. 3).pdf
+│   ├── [1204]Codeforces Round #581 (Div. 2).pdf
+│   ├── [1205]Codeforces Round #580 (Div. 1).pdf
+│   ├── [1206]Codeforces Round #580 (Div. 2).pdf
+│   ├── [1207]Educational Codeforces Round 71 (Rated for Div. 2).pdf
+│   ├── [1208]Manthan, Codefest 19 (open for everyone, rated, Div. 1 + Div. 2).pdf
+│   ├── [1209]Codeforces Round #584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2).pdf
+│   ├── [1210]Dasha Code Championship - SPb Finals Round (only for onsite-finalists).pdf
+│   ├── [1211]Kotlin Heroes: Episode 2.pdf
+│   ├── [1212]Kotlin Heroes: Practice 2.pdf
+│   ├── [1213]Codeforces Round #582 (Div. 3).pdf
+│   ├── [1214]Codeforces Round #583 (Div. 1 + Div. 2, based on Olympiad of Metropolises).pdf
+│   ├── [1215]Codeforces Round #585 (Div. 2).pdf
+│   ├── [1216]Codeforces Round #587 (Div. 3).pdf
+│   ├── [1217]Educational Codeforces Round 72 (Rated for Div. 2).pdf
+│   ├── [1218]Bubble Cup 12 - Finals [Online Mirror, unrated, Div. 1].pdf
+│   ├── [1219]Bubble Cup 12 - Finals [Online Mirror, unrated, Div. 2].pdf
+│   ├── [1220]Codeforces Round #586 (Div. 1 + Div. 2).pdf
+│   ├── [1221]Educational Codeforces Round 73 (Rated for Div. 2).pdf
+│   ├── [1223]Technocup 2020 - Elimination Round 1.pdf
+│   ├── [1225]Technocup 2020 - Elimination Round 2.pdf
+│   ├── [1227]Technocup 2020 - Elimination Round 3.pdf
+│   ├── [1228]Codeforces Round #589 (Div. 2).pdf
+│   ├── [1229]Codeforces Round #588 (Div. 1).pdf
+│   ├── [1230]Codeforces Round #588 (Div. 2).pdf
+│   ├── [1231]Dasha Code Championship - Novosibirsk Finals Round (only for onsite-finalists).pdf
+│   ├── [1234]Codeforces Round #590 (Div. 3).pdf
+│   ├── [1235]Huawei Honorcup Marathon 2.pdf
+│   ├── [1236]Codeforces Round #593 (Div. 2).pdf
+│   ├── [1237]Codeforces Global Round 5.pdf
+│   ├── [1238]Educational Codeforces Round 74 (Rated for Div. 2).pdf
+│   ├── [1239]Codeforces Round #594 (Div. 1).pdf
+│   ├── [1240]Codeforces Round #591 (Div. 1, based on Technocup 2020 Elimination Round 1).pdf
+│   ├── [1241]Codeforces Round #591 (Div. 2, based on Technocup 2020 Elimination Round 1).pdf
+│   ├── [1242]Codeforces Round #599 (Div. 1).pdf
+│   ├── [1243]Codeforces Round #599 (Div. 2).pdf
+│   ├── [1244]Codeforces Round #592 (Div. 2).pdf
+│   ├── [1245]Codeforces Round #597 (Div. 2).pdf
+│   ├── [1246]Codeforces Round #596 (Div. 1, based on Technocup 2020 Elimination Round 2).pdf
+│   ├── [1247]Codeforces Round #596 (Div. 2, based on Technocup 2020 Elimination Round 2).pdf
+│   ├── [1248]Codeforces Round #594 (Div. 2).pdf
+│   ├── [1249]Codeforces Round #595 (Div. 3).pdf
+│   ├── [1250]2019-2020 ICPC, NERC, Southern and Volga Russian Regional Contest (Online Mirror, ICPC Rules, Teams Preferred).pdf
+│   ├── [1251]Educational Codeforces Round 75 (Rated for Div. 2).pdf
+│   ├── [1252]2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred).pdf
+│   ├── [1253]Codeforces Round #600 (Div. 2).pdf
+│   ├── [1254]Codeforces Round #601 (Div. 1).pdf
+│   ├── [1255]Codeforces Round #601 (Div. 2).pdf
+│   ├── [1256]Codeforces Round #598 (Div. 3).pdf
+│   ├── [1257]Educational Codeforces Round 76 (Rated for Div. 2).pdf
+│   ├── [1259]Technocup 2020 - Elimination Round 4.pdf
+│   ├── [1260]Educational Codeforces Round 77 (Rated for Div. 2).pdf
+│   ├── [1261]Codeforces Round #602 (Div. 1, based on Technocup 2020 Elimination Round 3).pdf
+│   ├── [1262]Codeforces Round #602 (Div. 2, based on Technocup 2020 Elimination Round 3).pdf
+│   ├── [1263]Codeforces Round #603 (Div. 2).pdf
+│   ├── [1264]Codeforces Round #604 (Div. 1).pdf
+│   ├── [1265]Codeforces Round #604 (Div. 2).pdf
+│   ├── [1266]Codeforces Global Round 6.pdf
+│   ├── [1267]2019-2020 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred).pdf
+│   ├── [1268]Codeforces Round #609 (Div. 1).pdf
+│   ├── [1269]Codeforces Round #609 (Div. 2).pdf
+│   ├── [1270]Good Bye 2019.pdf
+│   ├── [1271]Codeforces Round #608 (Div. 2).pdf
+│   ├── [1272]Codeforces Round #605 (Div. 3).pdf
+│   ├── [1273]VK Cup 2019 - Квалификация (Design).pdf
+│   ├── [1274]VK Cup 2019 - Квалификация (Mobile).pdf
+│   ├── [1275]VK Cup 2019 - Квалификация (Engine).pdf
+│   ├── [1276]Codeforces Round #606 (Div. 1, based on Technocup 2020 Elimination Round 4).pdf
+│   ├── [1277]Codeforces Round #606 (Div. 2, based on Technocup 2020 Elimination Round 4).pdf
+│   ├── [1278]Educational Codeforces Round 78 (Rated for Div. 2).pdf
+│   ├── [1279]Educational Codeforces Round 79 (Rated for Div. 2).pdf
+│   ├── [1280]Codeforces Round #607 (Div. 1).pdf
+│   ├── [1281]Codeforces Round #607 (Div. 2).pdf
+│   ├── [1282]Codeforces Round #610 (Div. 2).pdf
+│   ├── [1283]Codeforces Round #611 (Div. 3).pdf
+│   ├── [1284]Hello 2020.pdf
+│   ├── [1285]Codeforces Round #613 (Div. 2).pdf
+│   ├── [1286]Codeforces Round #612 (Div. 1).pdf
+│   ├── [1287]Codeforces Round #612 (Div. 2).pdf
+│   ├── [1288]Educational Codeforces Round 80 (Rated for Div. 2).pdf
+│   ├── [1290]Codeforces Round #616 (Div. 1).pdf
+│   ├── [1291]Codeforces Round #616 (Div. 2).pdf
+│   ├── [1292]Codeforces Round #614 (Div. 1).pdf
+│   ├── [1293]Codeforces Round #614 (Div. 2).pdf
+│   ├── [1294]Codeforces Round #615 (Div. 3).pdf
+│   ├── [1295]Educational Codeforces Round 81 (Rated for Div. 2).pdf
+│   ├── [1296]Codeforces Round #617 (Div. 3).pdf
+│   ├── [1297]Kotlin Heroes: Episode 3.pdf
+│   ├── [1298]Kotlin Heroes: Practice 3.pdf
+│   ├── [1299]Codeforces Round #618 (Div. 1).pdf
+│   └── [1300]Codeforces Round #618 (Div. 2).pdf
+├── [1301-1400]
+│   ├── [1301]Codeforces Round #619 (Div. 2).pdf
+│   ├── [1302]AIM Tech Poorly Prepared Contest (unrated, funny, Div. 1 preferred).pdf
+│   ├── [1303]Educational Codeforces Round 82 (Rated for Div. 2).pdf
+│   ├── [1304]Codeforces Round #620 (Div. 2).pdf
+│   ├── [1305]Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!).pdf
+│   ├── [1307]Codeforces Round #621 (Div. 1 + Div. 2).pdf
+│   ├── [1308]VK Cup 2019-2020 - Отборочный раунд (Design).pdf
+│   ├── [1309]VK Cup 2019-2020 - Отборочный раунд (Mobile).pdf
+│   ├── [1310]VK Cup 2019-2020 - Elimination Round (Engine).pdf
+│   ├── [1311]Codeforces Round #624 (Div. 3).pdf
+│   ├── [1312]Educational Codeforces Round 83 (Rated for Div. 2).pdf
+│   ├── [1313]Codeforces Round #622 (Div. 2).pdf
+│   ├── [1314]Codeforces Round #623 (Div. 1, based on VK Cup 2019-2020 - Elimination Round, Engine).pdf
+│   ├── [1315]Codeforces Round #623 (Div. 2, based on VK Cup 2019-2020 - Elimination Round, Engine).pdf
+│   ├── [1316]CodeCraft-20 (Div. 2).pdf
+│   ├── [1319]Технокубок 2020 - Финал.pdf
+│   ├── [1320]Codeforces Round #625 (Div. 1, based on Technocup 2020 Final Round).pdf
+│   ├── [1321]Codeforces Round #625 (Div. 2, based on Technocup 2020 Final Round).pdf
+│   ├── [1322]Codeforces Round #626 (Div. 1, based on Moscow Open Olympiad in Informatics).pdf
+│   ├── [1323]Codeforces Round #626 (Div. 2, based on Moscow Open Olympiad in Informatics).pdf
+│   ├── [1324]Codeforces Round #627 (Div. 3).pdf
+│   ├── [1325]Codeforces Round #628 (Div. 2).pdf
+│   ├── [1326]Codeforces Global Round 7.pdf
+│   ├── [1327]Educational Codeforces Round 84 (Rated for Div. 2).pdf
+│   ├── [1328]Codeforces Round #629 (Div. 3).pdf
+│   ├── [1329]Codeforces Round #631 (Div. 1) - Thanks, Denis aramis Shitov!.pdf
+│   ├── [1330]Codeforces Round #631 (Div. 2) - Thanks, Denis aramis Shitov!.pdf
+│   ├── [1331]April Fools Day Contest 2020.pdf
+│   ├── [1332]Codeforces Round #630 (Div. 2).pdf
+│   ├── [1333]Codeforces Round #632 (Div. 2).pdf
+│   ├── [1334]Educational Codeforces Round 85 (Rated for Div. 2).pdf
+│   ├── [1335]Codeforces Round #634 (Div. 3).pdf
+│   ├── [1336]Codeforces Round #635 (Div. 1).pdf
+│   ├── [1337]Codeforces Round #635 (Div. 2).pdf
+│   ├── [1338]Codeforces Round #633 (Div. 1).pdf
+│   ├── [1339]Codeforces Round #633 (Div. 2).pdf
+│   ├── [1340]Codeforces Round #637 (Div. 1) - Thanks, Ivan Belonogov!.pdf
+│   ├── [1341]Codeforces Round #637 (Div. 2) - Thanks, Ivan Belonogov!.pdf
+│   ├── [1342]Educational Codeforces Round 86 (Rated for Div. 2).pdf
+│   ├── [1343]Codeforces Round #636 (Div. 3).pdf
+│   ├── [1344]Codeforces Round #639 (Div. 1).pdf
+│   ├── [1345]Codeforces Round #639 (Div. 2).pdf
+│   ├── [1346]Kotlin Heroes: Episode 4.pdf
+│   ├── [1347]Kotlin Heroes: Practice 4.pdf
+│   ├── [1348]Codeforces Round #638 (Div. 2).pdf
+│   ├── [1349]Codeforces Round #641 (Div. 1).pdf
+│   ├── [1350]Codeforces Round #641 (Div. 2).pdf
+│   ├── [1351]Testing Round #16 (Unrated).pdf
+│   ├── [1352]Codeforces Round #640 (Div. 4).pdf
+│   ├── [1353]Codeforces Round #642 (Div. 3).pdf
+│   ├── [1354]Educational Codeforces Round 87 (Rated for Div. 2).pdf
+│   ├── [1355]Codeforces Round #643 (Div. 2).pdf
+│   ├── [1356]Microsoft Q# Coding Contest - Summer 2020 - Warmup.pdf
+│   ├── [1357]Microsoft Q# Coding Contest - Summer 2020.pdf
+│   ├── [1358]Codeforces Round #645 (Div. 2).pdf
+│   ├── [1359]Educational Codeforces Round 88 (Rated for Div. 2).pdf
+│   ├── [1360]Codeforces Round #644 (Div. 3).pdf
+│   ├── [1361]Codeforces Round #647 (Div. 1) - Thanks, Algo Muse!.pdf
+│   ├── [1362]Codeforces Round #647 (Div. 2) - Thanks, Algo Muse!.pdf
+│   ├── [1363]Codeforces Round #646 (Div. 2).pdf
+│   ├── [1364]Codeforces Round #649 (Div. 2).pdf
+│   ├── [1365]Codeforces Round #648 (Div. 2).pdf
+│   ├── [1366]Educational Codeforces Round 89 (Rated for Div. 2).pdf
+│   ├── [1367]Codeforces Round #650 (Div. 3).pdf
+│   ├── [1368]Codeforces Global Round 8.pdf
+│   ├── [1369]Codeforces Round #652 (Div. 2).pdf
+│   ├── [1370]Codeforces Round #651 (Div. 2).pdf
+│   ├── [1371]Codeforces Round #654 (Div. 2).pdf
+│   ├── [1372]Codeforces Round #655 (Div. 2).pdf
+│   ├── [1373]Educational Codeforces Round 90 (Rated for Div. 2).pdf
+│   ├── [1374]Codeforces Round #653 (Div. 3).pdf
+│   ├── [1375]Codeforces Global Round 9.pdf
+│   ├── [1376]ICPC Challenge 2020: Practice.pdf
+│   ├── [1377]ICPC Challenge 2020.pdf
+│   ├── [1378]ICPC Challenge 2020: Marathon.pdf
+│   ├── [1379]Codeforces Round #657 (Div. 2).pdf
+│   ├── [1380]Educational Codeforces Round 91 (Rated for Div. 2).pdf
+│   ├── [1381]Codeforces Round #658 (Div. 1).pdf
+│   ├── [1382]Codeforces Round #658 (Div. 2).pdf
+│   ├── [1383]Codeforces Round #659 (Div. 1).pdf
+│   ├── [1384]Codeforces Round #659 (Div. 2).pdf
+│   ├── [1385]Codeforces Round #656 (Div. 3).pdf
+│   ├── [1386]Baltic Olympiad in Informatics 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated).pdf
+│   ├── [1387]Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated).pdf
+│   ├── [1388]Codeforces Round #660 (Div. 2).pdf
+│   ├── [1389]Educational Codeforces Round 92 (Rated for Div. 2).pdf
+│   ├── [1391]Codeforces Round #663 (Div. 2).pdf
+│   ├── [1392]Codeforces Global Round 10.pdf
+│   ├── [1393]Codeforces Round #662 (Div. 2).pdf
+│   ├── [1394]Codeforces Round #664 (Div. 1).pdf
+│   ├── [1395]Codeforces Round #664 (Div. 2).pdf
+│   ├── [1396]Codeforces Round #666 (Div. 1).pdf
+│   ├── [1397]Codeforces Round #666 (Div. 2).pdf
+│   ├── [1398]Educational Codeforces Round 93 (Rated for Div. 2).pdf
+│   ├── [1399]Codeforces Round #661 (Div. 3).pdf
+│   └── [1400]Educational Codeforces Round 94 (Rated for Div. 2).pdf
+├── [1401-1500]
+│   ├── [1401]Codeforces Round #665 (Div. 2).pdf
+│   ├── [1402]Central-European Olympiad in Informatics, CEOI 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated).pdf
+│   ├── [1403]Central-European Olympiad in Informatics, CEOI 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated).pdf
+│   ├── [1404]Codeforces Round #668 (Div. 1).pdf
+│   ├── [1405]Codeforces Round #668 (Div. 2).pdf
+│   ├── [1406]Codeforces Round #670 (Div. 2).pdf
+│   ├── [1407]Codeforces Round #669 (Div. 2).pdf
+│   ├── [1408]Grakn Forces 2020.pdf
+│   ├── [1409]Codeforces Round #667 (Div. 3).pdf
+│   ├── [1411]Technocup 2021 - Elimination Round 3.pdf
+│   ├── [1413]Technocup 2021 - Elimination Round 1.pdf
+│   ├── [1415]Technocup 2021 - Elimination Round 2.pdf
+│   ├── [1416]Codeforces Round #673 (Div. 1).pdf
+│   ├── [1417]Codeforces Round #673 (Div. 2).pdf
+│   ├── [1418]Educational Codeforces Round 95 (Rated for Div. 2).pdf
+│   ├── [1419]Codeforces Round #671 (Div. 2).pdf
+│   ├── [1420]Codeforces Round #672 (Div. 2).pdf
+│   ├── [1421]Codeforces Round #676 (Div. 2).pdf
+│   ├── [1422]Codeforces Round #675 (Div. 2).pdf
+│   ├── [1423]Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1].pdf
+│   ├── [1424]Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 2].pdf
+│   ├── [1425]2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred).pdf
+│   ├── [1426]Codeforces Round #674 (Div. 3).pdf
+│   ├── [1427]Codeforces Global Round 11.pdf
+│   ├── [1428]Codeforces Raif Round 1 (Div. 1 + Div. 2).pdf
+│   ├── [1430]Educational Codeforces Round 96 (Rated for Div. 2).pdf
+│   ├── [1431]Kotlin Heroes 5: ICPC Round.pdf
+│   ├── [1432]Kotlin Heroes 5: ICPC Round (Practice).pdf
+│   ├── [1433]Codeforces Round #677 (Div. 3).pdf
+│   ├── [1434]Codeforces Round #679 (Div. 1, based on Technocup 2021 Elimination Round 1).pdf
+│   ├── [1435]Codeforces Round #679 (Div. 2, based on Technocup 2021 Elimination Round 1).pdf
+│   ├── [1436]Codeforces Round #678 (Div. 2).pdf
+│   ├── [1437]Educational Codeforces Round 97 (Rated for Div. 2).pdf
+│   ├── [1438]Codeforces Round #682 (Div. 2).pdf
+│   ├── [1439]Codeforces Round #684 (Div. 1).pdf
+│   ├── [1440]Codeforces Round #684 (Div. 2).pdf
+│   ├── [1441]VK Cup 2019-2020 - Final Round (Engine).pdf
+│   ├── [1442]Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final).pdf
+│   ├── [1443]Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final).pdf
+│   ├── [1444]Codeforces Round #680 (Div. 1, based on Moscow Team Olympiad).pdf
+│   ├── [1445]Codeforces Round #680 (Div. 2, based on Moscow Team Olympiad).pdf
+│   ├── [1446]Codeforces Round #683 (Div. 1, by Meet IT).pdf
+│   ├── [1447]Codeforces Round #683 (Div. 2, by Meet IT).pdf
+│   ├── [1450]Codeforces Global Round 12.pdf
+│   ├── [1451]Codeforces Round #685 (Div. 2).pdf
+│   ├── [1452]Educational Codeforces Round 98 (Rated for Div. 2).pdf
+│   ├── [1453]Codeforces Round #688 (Div. 2).pdf
+│   ├── [1454]Codeforces Round #686 (Div. 3).pdf
+│   ├── [1455]Educational Codeforces Round 99 (Rated for Div. 2).pdf
+│   ├── [1456]Codeforces Round #687 (Div. 1, based on Technocup 2021 Elimination Round 2).pdf
+│   ├── [1457]Codeforces Round #687 (Div. 2, based on Technocup 2021 Elimination Round 2).pdf
+│   ├── [1458]Codeforces Round #691 (Div. 1).pdf
+│   ├── [1459]Codeforces Round #691 (Div. 2).pdf
+│   ├── [1460]NERC Challenge 2020: Marathon.pdf
+│   ├── [1461]Codeforces Round #689 (Div. 2, based on Zed Code Competition).pdf
+│   ├── [1462]Codeforces Round #690 (Div. 3).pdf
+│   ├── [1463]Educational Codeforces Round 100 (Rated for Div. 2).pdf
+│   ├── [1464]Codeforces Round #692 (Div. 1, based on Technocup 2021 Elimination Round 3).pdf
+│   ├── [1465]Codeforces Round #692 (Div. 2, based on Technocup 2021 Elimination Round 3).pdf
+│   ├── [1466]Good Bye 2020.pdf
+│   ├── [1467]Codeforces Round #695 (Div. 2).pdf
+│   ├── [1468]2020-2021 ICPC, NERC, Southern and Volga Russian Regional Contest (Online Mirror, ICPC Rules).pdf
+│   ├── [1469]Educational Codeforces Round 101 (Rated for Div. 2).pdf
+│   ├── [1470]Codeforces Round #694 (Div. 1).pdf
+│   ├── [1471]Codeforces Round #694 (Div. 2).pdf
+│   ├── [1472]Codeforces Round #693 (Div. 3).pdf
+│   ├── [1473]Educational Codeforces Round 102 (Rated for Div. 2).pdf
+│   ├── [1474]Codeforces Round #696 (Div. 2).pdf
+│   ├── [1475]Codeforces Round #697 (Div. 3).pdf
+│   ├── [1476]Educational Codeforces Round 103 (Rated for Div. 2).pdf
+│   ├── [1477]Codeforces Round #698 (Div. 1).pdf
+│   ├── [1478]Codeforces Round #698 (Div. 2).pdf
+│   ├── [1479]Codeforces Round #700 (Div. 1).pdf
+│   ├── [1480]Codeforces Round #700 (Div. 2).pdf
+│   ├── [1481]Codeforces Round #699 (Div. 2).pdf
+│   ├── [1482]Технокубок 2021 - Финал.pdf
+│   ├── [1483]Codeforces Round #709 (Div. 1, based on Technocup 2021 Final Round).pdf
+│   ├── [1484]Codeforces Round #709 (Div. 2, based on Technocup 2021 Final Round).pdf
+│   ├── [1485]Codeforces Round #701 (Div. 2).pdf
+│   ├── [1486]Codeforces Round #703 (Div. 2).pdf
+│   ├── [1487]Educational Codeforces Round 104 (Rated for Div. 2).pdf
+│   ├── [1488]Kotlin Heroes: Episode 6.pdf
+│   ├── [1489]Kotlin Heroes: Practice 6.pdf
+│   ├── [1490]Codeforces Round #702 (Div. 3).pdf
+│   ├── [1491]Codeforces Global Round 13.pdf
+│   ├── [1492]Codeforces Round #704 (Div. 2).pdf
+│   ├── [1493]Codeforces Round #705 (Div. 2).pdf
+│   ├── [1494]Educational Codeforces Round 105 (Rated for Div. 2).pdf
+│   ├── [1495]Codeforces Round #706 (Div. 1).pdf
+│   ├── [1496]Codeforces Round #706 (Div. 2).pdf
+│   ├── [1497]Codeforces Round #708 (Div. 2).pdf
+│   ├── [1498]CodeCraft-21 and Codeforces Round #711 (Div. 2).pdf
+│   ├── [1499]Educational Codeforces Round 106 (Rated for Div. 2).pdf
+│   └── [1500]Codeforces Round #707 (Div. 1, based on Moscow Open Olympiad in Informatics).pdf
+├── [1501-1600]
+│   ├── [1501]Codeforces Round #707 (Div. 2, based on Moscow Open Olympiad in Informatics).pdf
+│   ├── [1503]Codeforces Round #712 (Div. 1).pdf
+│   ├── [1504]Codeforces Round #712 (Div. 2).pdf
+│   ├── [1505]April Fools Day Contest 2021.pdf
+│   ├── [1506]Codeforces Round #710 (Div. 3).pdf
+│   ├── [1508]Codeforces Round #715 (Div. 1).pdf
+│   ├── [1509]Codeforces Round #715 (Div. 2).pdf
+│   ├── [1511]Educational Codeforces Round 107 (Rated for Div. 2).pdf
+│   ├── [1512]Codeforces Round #713 (Div. 3).pdf
+│   ├── [1513]Divide by Zero 2021 and Codeforces Round #714 (Div. 2).pdf
+│   ├── [1514]Codeforces Round #716 (Div. 2).pdf
+│   ├── [1515]Codeforces Global Round 14.pdf
+│   ├── [1516]Codeforces Round #717 (Div. 2).pdf
+│   ├── [1517]Contest 2050 and Codeforces Round #718 (Div. 1 + Div. 2).pdf
+│   ├── [1519]Educational Codeforces Round 108 (Rated for Div. 2).pdf
+│   ├── [1520]Codeforces Round #719 (Div. 3).pdf
+│   ├── [1521]Codeforces Round #720 (Div. 2).pdf
+│   ├── [1522]Codeforces Raif ML Round 1.pdf
+│   ├── [1523]Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2).pdf
+│   ├── [1524]ICPC Challenge 2021: Marathon (powered by Huawei).pdf
+│   ├── [1525]Educational Codeforces Round 109 (Rated for Div. 2).pdf
+│   ├── [1526]Codeforces Round #723 (Div. 2).pdf
+│   ├── [1527]Codeforces Round #721 (Div. 2).pdf
+│   ├── [1528]Codeforces Round #722 (Div. 1).pdf
+│   ├── [1529]Codeforces Round #722 (Div. 2).pdf
+│   ├── [1530]Codeforces Round #733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine)).pdf
+│   ├── [1531]VK Cup 2021 - Квалификация (Engine).pdf
+│   ├── [1532]Kotlin Heroes: Practice 7.pdf
+│   ├── [1533]Kotlin Heroes: Episode 7.pdf
+│   ├── [1534]Codeforces LATOKEN Round 1 (Div. 1 + Div. 2).pdf
+│   ├── [1535]Educational Codeforces Round 110 (Rated for Div. 2).pdf
+│   ├── [1536]Codeforces Round #724 (Div. 2).pdf
+│   ├── [1537]Codeforces Round #726 (Div. 2).pdf
+│   ├── [1538]Codeforces Round #725 (Div. 3).pdf
+│   ├── [1539]Codeforces Round #727 (Div. 2).pdf
+│   ├── [1540]Codeforces Round #728 (Div. 1).pdf
+│   ├── [1541]Codeforces Round #728 (Div. 2).pdf
+│   ├── [1542]Codeforces Round #729 (Div. 2).pdf
+│   ├── [1543]Codeforces Round #730 (Div. 2).pdf
+│   ├── [1544]VK Cup 2021 - Elimination (Engine).pdf
+│   ├── [1545]Codeforces Round #732 (Div. 1).pdf
+│   ├── [1546]Codeforces Round #732 (Div. 2).pdf
+│   ├── [1547]Codeforces Round #731 (Div. 3).pdf
+│   ├── [1548]Codeforces Round #736 (Div. 1).pdf
+│   ├── [1549]Codeforces Round #736 (Div. 2).pdf
+│   ├── [1550]Educational Codeforces Round 111 (Rated for Div. 2).pdf
+│   ├── [1551]Codeforces Round #734 (Div. 3).pdf
+│   ├── [1552]Codeforces Global Round 15.pdf
+│   ├── [1553]Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2).pdf
+│   ├── [1554]Codeforces Round #735 (Div. 2).pdf
+│   ├── [1555]Educational Codeforces Round 112 (Rated for Div. 2).pdf
+│   ├── [1556]Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2).pdf
+│   ├── [1557]Codeforces Round #737 (Div. 2).pdf
+│   ├── [1558]Codeforces Round #740 (Div. 1, based on VK Cup 2021 - Final (Engine)).pdf
+│   ├── [1559]Codeforces Round #738 (Div. 2).pdf
+│   ├── [1560]Codeforces Round #739 (Div. 3).pdf
+│   ├── [1561]Codeforces Round #740 (Div. 2, based on VK Cup 2021 - Final (Engine)).pdf
+│   ├── [1562]Codeforces Round #741 (Div. 2).pdf
+│   ├── [1563]VK Cup 2021 - Final (Engine).pdf
+│   ├── [1566]Codeforces Global Round 16.pdf
+│   ├── [1567]Codeforces Round #742 (Div. 2).pdf
+│   ├── [1569]Educational Codeforces Round 113 (Rated for Div. 2).pdf
+│   ├── [1570]Kotlin Heroes: Practice 8.pdf
+│   ├── [1571]Kotlin Heroes: Episode 8.pdf
+│   ├── [1572]Codeforces Round #743 (Div. 1).pdf
+│   ├── [1573]Codeforces Round #743 (Div. 2).pdf
+│   ├── [1574]Educational Codeforces Round 114 (Rated for Div. 2).pdf
+│   ├── [1575]COMPFEST 13 - Finals Online Mirror (Unrated, ICPC Rules, Teams Preferred).pdf
+│   ├── [1576]2021 ICPC Communication Routing Challenge: Marathon.pdf
+│   ├── [1578]ICPC WF Moscow Invitational Contest - Online Mirror (Unrated, ICPC Rules, Teams Preferred).pdf
+│   ├── [1579]Codeforces Round #744 (Div. 3).pdf
+│   ├── [1580]Codeforces Round #745 (Div. 1).pdf
+│   ├── [1581]Codeforces Round #745 (Div. 2).pdf
+│   ├── [1582]Codeforces Round #750 (Div. 2).pdf
+│   ├── [1583]Technocup 2022 - Elimination Round 1.pdf
+│   ├── [1584]Technocup 2022 - Elimination Round 2.pdf
+│   ├── [1585]Technocup 2022 - Elimination Round 3.pdf
+│   ├── [1586]Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1).pdf
+│   ├── [1588]Codeforces Round #755 (Div. 1, based on Technocup 2022 Elimination Round 2).pdf
+│   ├── [1589]Codeforces Round #755 (Div. 2, based on Technocup 2022 Elimination Round 2).pdf
+│   ├── [1591]Codeforces Round #759 (Div. 2, based on Technocup 2022 Elimination Round 3).pdf
+│   ├── [1592]Codeforces Round #746 (Div. 2).pdf
+│   ├── [1593]Codeforces Round #748 (Div. 3).pdf
+│   ├── [1594]Codeforces Round #747 (Div. 2).pdf
+│   ├── [1598]Educational Codeforces Round 115 (Rated for Div. 2).pdf
+│   ├── [1599]Bubble Cup 14 - Finals Online Mirror (Unrated, ICPC Rules, Teams Preferred, Div. 1).pdf
+│   └── [1600]Bubble Cup 14 - Finals Online Mirror (Unrated, ICPC Rules, Teams Preferred, Div. 2).pdf
+├── [1601-1700]
+│   ├── [1601]Codeforces Round #751 (Div. 1).pdf
+│   ├── [1602]Codeforces Round #751 (Div. 2).pdf
+│   ├── [1603]Codeforces Round #752 (Div. 1).pdf
+│   ├── [1604]Codeforces Round #752 (Div. 2).pdf
+│   ├── [1605]Codeforces Round #754 (Div. 2).pdf
+│   ├── [1606]Educational Codeforces Round 116 (Rated for Div. 2).pdf
+│   ├── [1607]Codeforces Round #753 (Div. 3).pdf
+│   ├── [1608]Codeforces Round #758 (Div.1 + Div. 2).pdf
+│   ├── [1609]Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2).pdf
+│   ├── [1610]Codeforces Global Round 17.pdf
+│   ├── [1611]Codeforces Round #756 (Div. 3).pdf
+│   ├── [1612]Educational Codeforces Round 117 (Rated for Div. 2).pdf
+│   ├── [1613]Educational Codeforces Round 118 (Rated for Div. 2).pdf
+│   ├── [1614]Codeforces Round #757 (Div. 2).pdf
+│   ├── [1615]Codeforces Global Round 18.pdf
+│   ├── [1616]Good Bye 2021: 2022 is NEAR.pdf
+│   ├── [1617]Codeforces Round #761 (Div. 2).pdf
+│   ├── [1618]Codeforces Round #760 (Div. 3).pdf
+│   ├── [1619]Codeforces Round #762 (Div. 3).pdf
+│   ├── [1620]Educational Codeforces Round 119 (Rated for Div. 2).pdf
+│   ├── [1621]Hello 2022.pdf
+│   ├── [1622]Educational Codeforces Round 120 (Rated for Div. 2).pdf
+│   ├── [1623]Codeforces Round #763 (Div. 2).pdf
+│   ├── [1624]Codeforces Round #764 (Div. 3).pdf
+│   ├── [1625]Codeforces Round #765 (Div. 2).pdf
+│   ├── [1626]Educational Codeforces Round 121 (Rated for Div. 2).pdf
+│   ├── [1627]Codeforces Round #766 (Div. 2).pdf
+│   ├── [1628]Codeforces Round #767 (Div. 1).pdf
+│   ├── [1629]Codeforces Round #767 (Div. 2).pdf
+│   ├── [1630]Codeforces Round #768 (Div. 1).pdf
+│   ├── [1631]Codeforces Round #768 (Div. 2).pdf
+│   ├── [1632]Codeforces Round #769 (Div. 2).pdf
+│   ├── [1633]Educational Codeforces Round 122 (Rated for Div. 2).pdf
+│   ├── [1634]Codeforces Round #770 (Div. 2).pdf
+│   ├── [1635]Codeforces Round #772 (Div. 2).pdf
+│   ├── [1637]Codeforces Global Round 19.pdf
+│   ├── [1638]Codeforces Round #771 (Div. 2).pdf
+│   ├── [1639]Pinely Treasure Hunt Contest.pdf
+│   ├── [1641]Codeforces Round #773 (Div. 1).pdf
+│   ├── [1642]Codeforces Round #773 (Div. 2).pdf
+│   ├── [1644]Educational Codeforces Round 123 (Rated for Div. 2).pdf
+│   ├── [1645]Kotlin Heroes: Practice 9.pdf
+│   ├── [1646]Codeforces Round #774 (Div. 2).pdf
+│   ├── [1647]Codeforces Round #777 (Div. 2).pdf
+│   ├── [1648]Codeforces Round #775 (Div. 1, based on Moscow Open Olympiad in Informatics).pdf
+│   ├── [1649]Codeforces Round #775 (Div. 2, based on Moscow Open Olympiad in Informatics).pdf
+│   ├── [1650]Codeforces Round #776 (Div. 3).pdf
+│   ├── [1651]Educational Codeforces Round 124 (Rated for Div. 2).pdf
+│   ├── [1652]Технокубок 2022 - Финал.pdf
+│   ├── [1654]Codeforces Round #778 (Div. 1 + Div. 2, based on Technocup 2022 Final Round).pdf
+│   ├── [1656]CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!).pdf
+│   ├── [1657]Educational Codeforces Round 125 (Rated for Div. 2).pdf
+│   ├── [1658]Codeforces Round #779 (Div. 2).pdf
+│   ├── [1659]Codeforces Round #782 (Div. 2).pdf
+│   ├── [1660]Codeforces Round #780 (Div. 3).pdf
+│   ├── [1661]Educational Codeforces Round 126 (Rated for Div. 2).pdf
+│   ├── [1662]SWERC 2021-2022 - Online Mirror (Unrated, ICPC Rules, Teams Preferred).pdf
+│   ├── [1663]April Fools Day Contest 2022.pdf
+│   ├── [1665]Codeforces Round #781 (Div. 2).pdf
+│   ├── [1667]Codeforces Round #783 (Div. 1).pdf
+│   ├── [1668]Codeforces Round #783 (Div. 2).pdf
+│   ├── [1669]Codeforces Round #784 (Div. 4).pdf
+│   ├── [1670]Codeforces Round #788 (Div. 2).pdf
+│   ├── [1671]Educational Codeforces Round 127 (Rated for Div. 2).pdf
+│   ├── [1672]Codeforces Global Round 20.pdf
+│   ├── [1673]Codeforces Round #785 (Div. 2).pdf
+│   ├── [1674]Codeforces Round #786 (Div. 3).pdf
+│   ├── [1675]Codeforces Round #787 (Div. 3).pdf
+│   ├── [1676]Codeforces Round #790 (Div. 4).pdf
+│   ├── [1677]Codeforces Round #789 (Div. 1).pdf
+│   ├── [1678]Codeforces Round #789 (Div. 2).pdf
+│   ├── [1679]Codeforces Round #791 (Div. 2).pdf
+│   ├── [1680]Educational Codeforces Round 128 (Rated for Div. 2).pdf
+│   ├── [1681]Educational Codeforces Round 129 (Rated for Div. 2).pdf
+│   ├── [1682]Codeforces Round #793 (Div. 2).pdf
+│   ├── [1684]Codeforces Round #792 (Div. 1 + Div. 2).pdf
+│   ├── [1685]Codeforces Round #794 (Div. 1).pdf
+│   ├── [1686]Codeforces Round #794 (Div. 2).pdf
+│   ├── [1687]Codeforces Round #796 (Div. 1).pdf
+│   ├── [1688]Codeforces Round #796 (Div. 2).pdf
+│   ├── [1689]Codeforces Round #798 (Div. 2).pdf
+│   ├── [1690]Codeforces Round #797 (Div. 3).pdf
+│   ├── [1691]CodeCraft-22 and Codeforces Round #795 (Div. 2).pdf
+│   ├── [1692]Codeforces Round #799 (Div. 4).pdf
+│   ├── [1693]Codeforces Round #800 (Div. 1).pdf
+│   ├── [1694]Codeforces Round #800 (Div. 2).pdf
+│   ├── [1695]Codeforces Round #801 (Div. 2) and EPIC Institute of Technology Round.pdf
+│   ├── [1696]Codeforces Global Round 21.pdf
+│   ├── [1697]Educational Codeforces Round 130 (Rated for Div. 2).pdf
+│   ├── [1698]Codeforces Round #803 (Div. 2).pdf
+│   ├── [1699]Codeforces Round #804 (Div. 2).pdf
+│   └── [1700]Codeforces Round #802 (Div. 2).pdf
+├── [1701-1800]
+│   ├── [1701]Educational Codeforces Round 131 (Rated for Div. 2).pdf
+│   ├── [1702]Codeforces Round #805 (Div. 3).pdf
+│   ├── [1703]Codeforces Round #806 (Div. 4).pdf
+│   ├── [1704]CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!).pdf
+│   ├── [1705]Codeforces Round #807 (Div. 2).pdf
+│   ├── [1706]Codeforces Round #809 (Div. 2).pdf
+│   ├── [1707]Codeforces Round #808 (Div. 1).pdf
+│   ├── [1708]Codeforces Round #808 (Div. 2).pdf
+│   ├── [1709]Educational Codeforces Round 132 (Rated for Div. 2).pdf
+│   ├── [1710]Codeforces Round #810 (Div. 1).pdf
+│   ├── [1711]Codeforces Round #810 (Div. 2).pdf
+│   └── [1714]Codeforces Round #811 (Div. 3).pdf
+├── [201-300]
+│   ├── [201]Codeforces Round #127 (Div. 1).pdf
+│   ├── [202]Codeforces Round #127 (Div. 2).pdf
+│   ├── [203]Codeforces Round #128 (Div. 2).pdf
+│   ├── [204]Codeforces Round #129 (Div. 1).pdf
+│   ├── [205]Codeforces Round #129 (Div. 2).pdf
+│   ├── [206]Abbyy Cup 2.0 - Final.pdf
+│   ├── [207]Abbyy Cup 2.0 - Final (unofficial).pdf
+│   ├── [208]Codeforces Round #130 (Div. 2).pdf
+│   ├── [209]VK Cup 2012 Finals, Practice Session.pdf
+│   ├── [211]VK Cup 2012 Finals.pdf
+│   ├── [212]VK Cup 2012 Finals (unofficial online-version).pdf
+│   ├── [213]Codeforces Round #131 (Div. 1).pdf
+│   ├── [214]Codeforces Round #131 (Div. 2).pdf
+│   ├── [215]Codeforces Round #132 (Div. 2).pdf
+│   ├── [216]Codeforces Round #133 (Div. 2).pdf
+│   ├── [217]Codeforces Round #134 (Div. 1).pdf
+│   ├── [218]Codeforces Round #134 (Div. 2).pdf
+│   ├── [219]Codeforces Round #135 (Div. 2).pdf
+│   ├── [220]Codeforces Round #136 (Div. 1).pdf
+│   ├── [221]Codeforces Round #136 (Div. 2).pdf
+│   ├── [222]Codeforces Round #137 (Div. 2).pdf
+│   ├── [223]Codeforces Round #138 (Div. 1).pdf
+│   ├── [224]Codeforces Round #138 (Div. 2).pdf
+│   ├── [225]Codeforces Round #139 (Div. 2).pdf
+│   ├── [226]Codeforces Round #140 (Div. 1).pdf
+│   ├── [227]Codeforces Round #140 (Div. 2).pdf
+│   ├── [228]Codeforces Round #141 (Div. 2).pdf
+│   ├── [229]Codeforces Round #142 (Div. 1).pdf
+│   ├── [230]Codeforces Round #142 (Div. 2).pdf
+│   ├── [231]Codeforces Round #143 (Div. 2).pdf
+│   ├── [232]Codeforces Round #144 (Div. 1).pdf
+│   ├── [233]Codeforces Round #144 (Div. 2).pdf
+│   ├── [234]Codeforces Round #145 (Div. 2, ACM-ICPC Rules).pdf
+│   ├── [235]Codeforces Round #146 (Div. 1).pdf
+│   ├── [236]Codeforces Round #146 (Div. 2).pdf
+│   ├── [237]Codeforces Round #147 (Div. 2).pdf
+│   ├── [238]Codeforces Round #148 (Div. 1).pdf
+│   ├── [239]Codeforces Round #148 (Div. 2).pdf
+│   ├── [240]Codeforces Round #145 (Div. 1, ACM-ICPC Rules).pdf
+│   ├── [241]Bayan 2012-2013 Elimination Round (ACM ICPC Rules, English statements).pdf
+│   ├── [242]Codeforces Round #149 (Div. 2).pdf
+│   ├── [243]Codeforces Round #150 (Div. 1).pdf
+│   ├── [244]Codeforces Round #150 (Div. 2).pdf
+│   ├── [245]CROC-MBTU 2012, Elimination Round (ACM-ICPC).pdf
+│   ├── [246]Codeforces Round #151 (Div. 2).pdf
+│   ├── [247]CROC-MBTU 2012, Final Round.pdf
+│   ├── [248]Codeforces Round #152 (Div. 2).pdf
+│   ├── [249]Codeforces Round #152 (Div. 1).pdf
+│   ├── [250]CROC-MBTU 2012, Final Round (Online version, Div. 2).pdf
+│   ├── [251]Codeforces Round #153 (Div. 1).pdf
+│   ├── [252]Codeforces Round #153 (Div. 2).pdf
+│   ├── [253]Codeforces Round #154 (Div. 2).pdf
+│   ├── [254]Codeforces Round #155 (Div. 2).pdf
+│   ├── [255]Codeforces Round #156 (Div. 2).pdf
+│   ├── [256]Codeforces Round #156 (Div. 1).pdf
+│   ├── [257]Codeforces Round #159 (Div. 2).pdf
+│   ├── [258]Codeforces Round #157 (Div. 1).pdf
+│   ├── [259]Codeforces Round #157 (Div. 2).pdf
+│   ├── [260]Codeforces Round #158 (Div. 2).pdf
+│   ├── [261]Codeforces Round #160 (Div. 1).pdf
+│   ├── [262]Codeforces Round #160 (Div. 2).pdf
+│   ├── [263]Codeforces Round #161 (Div. 2).pdf
+│   ├── [264]Codeforces Round #162 (Div. 1).pdf
+│   ├── [265]Codeforces Round #162 (Div. 2).pdf
+│   ├── [266]Codeforces Round #163 (Div. 2).pdf
+│   ├── [267]Codeforces Testing Round #5.pdf
+│   ├── [268]Codeforces Round #164 (Div. 2).pdf
+│   ├── [269]Codeforces Round #165 (Div. 1).pdf
+│   ├── [270]Codeforces Round #165 (Div. 2).pdf
+│   ├── [271]Codeforces Round #166 (Div. 2).pdf
+│   ├── [272]Codeforces Round #167 (Div. 2).pdf
+│   ├── [273]Codeforces Round #167 (Div. 1).pdf
+│   ├── [274]Codeforces Round #168 (Div. 1).pdf
+│   ├── [275]Codeforces Round #168 (Div. 2).pdf
+│   ├── [276]Codeforces Round #169 (Div. 2).pdf
+│   ├── [277]Codeforces Round #170 (Div. 1).pdf
+│   ├── [278]Codeforces Round #170 (Div. 2).pdf
+│   ├── [279]Codeforces Round #171 (Div. 2).pdf
+│   ├── [280]Codeforces Round #172 (Div. 1).pdf
+│   ├── [281]Codeforces Round #172 (Div. 2).pdf
+│   ├── [282]Codeforces Round #173 (Div. 2).pdf
+│   ├── [283]Codeforces Round #174 (Div. 1).pdf
+│   ├── [284]Codeforces Round #174 (Div. 2).pdf
+│   ├── [285]Codeforces Round #175 (Div. 2).pdf
+│   ├── [286]Codeforces Round #176 (Div. 1).pdf
+│   ├── [287]Codeforces Round #176 (Div. 2).pdf
+│   ├── [288]Codeforces Round #177 (Div. 1).pdf
+│   ├── [289]Codeforces Round #177 (Div. 2).pdf
+│   ├── [290]April Fools Day Contest 2013.pdf
+│   ├── [291]Croc Champ 2013 - Qualification Round.pdf
+│   ├── [292]Croc Champ 2013 - Round 1.pdf
+│   ├── [293]Croc Champ 2013 - Round 2.pdf
+│   ├── [294]Codeforces Round #178 (Div. 2).pdf
+│   ├── [295]Codeforces Round #179 (Div. 1).pdf
+│   ├── [296]Codeforces Round #179 (Div. 2).pdf
+│   ├── [297]Codeforces Round #180 (Div. 1).pdf
+│   ├── [298]Codeforces Round #180 (Div. 2).pdf
+│   ├── [299]Croc Champ 2013 - Round 2 (Div. 2 Edition).pdf
+│   └── [300]Codeforces Round #181 (Div. 2).pdf
+├── [301-400]
+│   ├── [301]Codeforces Round #182 (Div. 1).pdf
+│   ├── [302]Codeforces Round #182 (Div. 2).pdf
+│   ├── [303]Codeforces Round #183 (Div. 1).pdf
+│   ├── [304]Codeforces Round #183 (Div. 2).pdf
+│   ├── [305]Codeforces Round #184 (Div. 2).pdf
+│   ├── [306]Testing Round #6.pdf
+│   ├── [307]Croc Champ 2013 - Trial Contest (Finals).pdf
+│   ├── [308]Croc Champ 2013 - Finals.pdf
+│   ├── [309]Croc Champ 2013 - Finals (online version, Div. 1).pdf
+│   ├── [311]Codeforces Round #185 (Div. 1).pdf
+│   ├── [312]Codeforces Round #185 (Div. 2).pdf
+│   ├── [313]Codeforces Round #186 (Div. 2).pdf
+│   ├── [314]Codeforces Round #187 (Div. 1).pdf
+│   ├── [315]Codeforces Round #187 (Div. 2).pdf
+│   ├── [316]ABBYY Cup 3.0.pdf
+│   ├── [317]Codeforces Round #188 (Div. 1).pdf
+│   ├── [318]Codeforces Round #188 (Div. 2).pdf
+│   ├── [319]Codeforces Round #189 (Div. 1).pdf
+│   ├── [320]Codeforces Round #189 (Div. 2).pdf
+│   ├── [321]Codeforces Round #190 (Div. 1).pdf
+│   ├── [322]Codeforces Round #190 (Div. 2).pdf
+│   ├── [323]Testing Round #7.pdf
+│   ├── [324]ABBYY Cup 3.0 - Finals.pdf
+│   ├── [325]MemSQL start[c]up Round 1.pdf
+│   ├── [326]MemSQL start[c]up Round 2.pdf
+│   ├── [327]Codeforces Round #191 (Div. 2).pdf
+│   ├── [328]Testing Round #8.pdf
+│   ├── [329]Codeforces Round #192 (Div. 1).pdf
+│   ├── [330]Codeforces Round #192 (Div. 2).pdf
+│   ├── [331]ABBYY Cup 3.0 - Finals (online version).pdf
+│   ├── [332]Codeforces Round #193 (Div. 2).pdf
+│   ├── [333]Codeforces Round #194 (Div. 1).pdf
+│   ├── [334]Codeforces Round #194 (Div. 2).pdf
+│   ├── [335]MemSQL start[c]up Round 2 - online version.pdf
+│   ├── [336]Codeforces Round #195 (Div. 2).pdf
+│   ├── [337]Codeforces Round #196 (Div. 2).pdf
+│   ├── [338]Codeforces Round #196 (Div. 1).pdf
+│   ├── [339]Codeforces Round #197 (Div. 2).pdf
+│   ├── [340]Codeforces Round #198 (Div. 2).pdf
+│   ├── [341]Codeforces Round #198 (Div. 1).pdf
+│   ├── [342]Codeforces Round #199 (Div. 2).pdf
+│   ├── [343]Codeforces Round #200 (Div. 1).pdf
+│   ├── [344]Codeforces Round #200 (Div. 2).pdf
+│   ├── [345]Friday the 13th, Programmers Day.pdf
+│   ├── [346]Codeforces Round #201 (Div. 1).pdf
+│   ├── [347]Codeforces Round #201 (Div. 2).pdf
+│   ├── [348]Codeforces Round #202 (Div. 1).pdf
+│   ├── [349]Codeforces Round #202 (Div. 2).pdf
+│   ├── [350]Codeforces Round #203 (Div. 2).pdf
+│   ├── [351]Codeforces Round #204 (Div. 1).pdf
+│   ├── [352]Codeforces Round #204 (Div. 2).pdf
+│   ├── [353]Codeforces Round #205 (Div. 2).pdf
+│   ├── [354]Codeforces Round #206 (Div. 1).pdf
+│   ├── [355]Codeforces Round #206 (Div. 2).pdf
+│   ├── [356]Codeforces Round #207 (Div. 1).pdf
+│   ├── [357]Codeforces Round #207 (Div. 2).pdf
+│   ├── [358]Codeforces Round #208 (Div. 2).pdf
+│   ├── [359]Codeforces Round #209 (Div. 2).pdf
+│   ├── [360]Codeforces Round #210 (Div. 1).pdf
+│   ├── [361]Codeforces Round #210 (Div. 2).pdf
+│   ├── [362]Codeforces Round #212 (Div. 2).pdf
+│   ├── [363]Codeforces Round #211 (Div. 2).pdf
+│   ├── [364]Codeforces Round #213 (Div. 1).pdf
+│   ├── [365]Codeforces Round #213 (Div. 2).pdf
+│   ├── [366]Codeforces Round #214 (Div. 2).pdf
+│   ├── [367]Codeforces Round #215 (Div. 1).pdf
+│   ├── [368]Codeforces Round #215 (Div. 2).pdf
+│   ├── [369]Codeforces Round #216 (Div. 2).pdf
+│   ├── [370]Codeforces Round #217 (Div. 2).pdf
+│   ├── [371]Codeforces Round #218 (Div. 2).pdf
+│   ├── [372]Codeforces Round #219 (Div. 1).pdf
+│   ├── [373]Codeforces Round #219 (Div. 2).pdf
+│   ├── [374]Codeforces Round #220 (Div. 2).pdf
+│   ├── [375]Codeforces Round #221 (Div. 1).pdf
+│   ├── [376]Codeforces Round #221 (Div. 2).pdf
+│   ├── [377]Codeforces Round #222 (Div. 1).pdf
+│   ├── [378]Codeforces Round #222 (Div. 2).pdf
+│   ├── [379]Good Bye 2013.pdf
+│   ├── [380]Codeforces Round #223 (Div. 1).pdf
+│   ├── [381]Codeforces Round #223 (Div. 2).pdf
+│   ├── [382]Codeforces Round #224 (Div. 2).pdf
+│   ├── [383]Codeforces Round #225 (Div. 1).pdf
+│   ├── [384]Codeforces Round #225 (Div. 2).pdf
+│   ├── [385]Codeforces Round #226 (Div. 2).pdf
+│   ├── [386]Testing Round #9.pdf
+│   ├── [387]Codeforces Round #227 (Div. 2).pdf
+│   ├── [388]Codeforces Round #228 (Div. 1).pdf
+│   ├── [389]Codeforces Round #228 (Div. 2).pdf
+│   ├── [390]Codeforces Round #229 (Div. 2).pdf
+│   ├── [391]Rockethon 2014.pdf
+│   ├── [392]Codeforces Round #230 (Div. 1).pdf
+│   ├── [393]Codeforces Round #230 (Div. 2).pdf
+│   ├── [394]Codeforces Round #231 (Div. 2).pdf
+│   ├── [396]Codeforces Round #232 (Div. 1).pdf
+│   ├── [397]Codeforces Round #232 (Div. 2).pdf
+│   ├── [398]Codeforces Round #233 (Div. 1).pdf
+│   ├── [399]Codeforces Round #233 (Div. 2).pdf
+│   └── [400]Codeforces Round #234 (Div. 2).pdf
+├── [401-500]
+│   ├── [401]Codeforces Round #235 (Div. 2).pdf
+│   ├── [402]Codeforces Round #236 (Div. 2).pdf
+│   ├── [403]Codeforces Round #236 (Div. 1).pdf
+│   ├── [404]Codeforces Round #237 (Div. 2).pdf
+│   ├── [405]Codeforces Round #238 (Div. 2).pdf
+│   ├── [406]Codeforces Round #238 (Div. 1).pdf
+│   ├── [407]Codeforces Round #239 (Div. 1).pdf
+│   ├── [408]Codeforces Round #239 (Div. 2).pdf
+│   ├── [409]April Fools Day Contest 2014.pdf
+│   ├── [411]Coder-Strike 2014 - Qualification Round.pdf
+│   ├── [412]Coder-Strike 2014 - Round 1.pdf
+│   ├── [413]Coder-Strike 2014 - Round 2.pdf
+│   ├── [414]Codeforces Round #240 (Div. 1).pdf
+│   ├── [415]Codeforces Round #240 (Div. 2).pdf
+│   ├── [416]Codeforces Round #241 (Div. 2).pdf
+│   ├── [417]RCC 2014 Warmup (Div. 2).pdf
+│   ├── [418]RCC 2014 Warmup (Div. 1).pdf
+│   ├── [419]Coder-Strike 2014 - Finals.pdf
+│   ├── [420]Coder-Strike 2014 - Finals (online edition, Div. 1).pdf
+│   ├── [421]Coder-Strike 2014 - Finals (online edition, Div. 2).pdf
+│   ├── [424]Codeforces Round #242 (Div. 2).pdf
+│   ├── [425]Codeforces Round #243 (Div. 1).pdf
+│   ├── [426]Codeforces Round #243 (Div. 2).pdf
+│   ├── [427]Codeforces Round #244 (Div. 2).pdf
+│   ├── [429]Codeforces Round #245 (Div. 1).pdf
+│   ├── [430]Codeforces Round #245 (Div. 2).pdf
+│   ├── [431]Codeforces Round #247 (Div. 2).pdf
+│   ├── [432]Codeforces Round #246 (Div. 2).pdf
+│   ├── [433]Codeforces Round #248 (Div. 2).pdf
+│   ├── [434]Codeforces Round #248 (Div. 1).pdf
+│   ├── [435]Codeforces Round #249 (Div. 2).pdf
+│   ├── [436]Zepto Code Rush 2014.pdf
+│   ├── [437]Codeforces Round #250 (Div. 2).pdf
+│   ├── [438]Codeforces Round #250 (Div. 1).pdf
+│   ├── [439]Codeforces Round #251 (Div. 2).pdf
+│   ├── [440]Testing Round #10.pdf
+│   ├── [441]Codeforces Round #252 (Div. 2).pdf
+│   ├── [442]Codeforces Round #253 (Div. 1).pdf
+│   ├── [443]Codeforces Round #253 (Div. 2).pdf
+│   ├── [444]Codeforces Round #254 (Div. 1).pdf
+│   ├── [445]Codeforces Round #254 (Div. 2).pdf
+│   ├── [446]Codeforces Round #FF (Div. 1).pdf
+│   ├── [447]Codeforces Round #FF (Div. 2).pdf
+│   ├── [448]Codeforces Round #256 (Div. 2).pdf
+│   ├── [449]Codeforces Round #257 (Div. 1).pdf
+│   ├── [450]Codeforces Round #257 (Div. 2).pdf
+│   ├── [451]Codeforces Round #258 (Div. 2).pdf
+│   ├── [452]MemSQL Start[c]UP 2.0 - Round 1.pdf
+│   ├── [453]Codeforces Round #259 (Div. 1).pdf
+│   ├── [454]Codeforces Round #259 (Div. 2).pdf
+│   ├── [455]Codeforces Round #260 (Div. 1).pdf
+│   ├── [456]Codeforces Round #260 (Div. 2).pdf
+│   ├── [457]MemSQL Start[c]UP 2.0 - Round 2.pdf
+│   ├── [458]MemSQL Start[c]UP 2.0 - Round 2 - Online Round.pdf
+│   ├── [459]Codeforces Round #261 (Div. 2).pdf
+│   ├── [460]Codeforces Round #262 (Div. 2).pdf
+│   ├── [461]Codeforces Round #263 (Div. 1).pdf
+│   ├── [462]Codeforces Round #263 (Div. 2).pdf
+│   ├── [463]Codeforces Round #264 (Div. 2).pdf
+│   ├── [464]Codeforces Round #265 (Div. 1).pdf
+│   ├── [465]Codeforces Round #265 (Div. 2).pdf
+│   ├── [466]Codeforces Round #266 (Div. 2).pdf
+│   ├── [467]Codeforces Round #267 (Div. 2).pdf
+│   ├── [468]Codeforces Round #268 (Div. 1).pdf
+│   ├── [469]Codeforces Round #268 (Div. 2).pdf
+│   ├── [470]Surprise Language Round #7.pdf
+│   ├── [471]Codeforces Round #269 (Div. 2).pdf
+│   ├── [472]Codeforces Round #270.pdf
+│   ├── [474]Codeforces Round #271 (Div. 2).pdf
+│   ├── [475]Bayan 2015 Contest Warm Up.pdf
+│   ├── [476]Codeforces Round #272 (Div. 2).pdf
+│   ├── [477]Codeforces Round #272 (Div. 1).pdf
+│   ├── [478]Codeforces Round #273 (Div. 2).pdf
+│   ├── [479]Codeforces Round #274 (Div. 2).pdf
+│   ├── [480]Codeforces Round #274 (Div. 1).pdf
+│   ├── [482]Codeforces Round #275 (Div. 1).pdf
+│   ├── [483]Codeforces Round #275 (Div. 2).pdf
+│   ├── [484]Codeforces Round #276 (Div. 1).pdf
+│   ├── [485]Codeforces Round #276 (Div. 2).pdf
+│   ├── [486]Codeforces Round #277 (Div. 2).pdf
+│   ├── [487]Codeforces Round #278 (Div. 1).pdf
+│   ├── [488]Codeforces Round #278 (Div. 2).pdf
+│   ├── [489]Codeforces Round #277.5 (Div. 2).pdf
+│   ├── [490]Codeforces Round #279 (Div. 2).pdf
+│   ├── [491]Testing Round #11.pdf
+│   ├── [492]Codeforces Round #280 (Div. 2).pdf
+│   ├── [493]Codeforces Round #281 (Div. 2).pdf
+│   ├── [494]Codeforces Round #282 (Div. 1).pdf
+│   ├── [495]Codeforces Round #282 (Div. 2).pdf
+│   ├── [496]Codeforces Round #283 (Div. 2).pdf
+│   ├── [497]Codeforces Round #283 (Div. 1).pdf
+│   ├── [498]Codeforces Round #284 (Div. 1).pdf
+│   ├── [499]Codeforces Round #284 (Div. 2).pdf
+│   └── [500]Good Bye 2014.pdf
+├── [501-600]
+│   ├── [501]Codeforces Round #285 (Div. 2).pdf
+│   ├── [504]Codeforces Round #285 (Div. 1).pdf
+│   ├── [505]Codeforces Round #286 (Div. 2).pdf
+│   ├── [506]Codeforces Round #286 (Div. 1).pdf
+│   ├── [507]Codeforces Round #287 (Div. 2).pdf
+│   ├── [508]Codeforces Round #288 (Div. 2).pdf
+│   ├── [509]Codeforces Round #289 (Div. 2, ACM ICPC Rules).pdf
+│   ├── [510]Codeforces Round #290 (Div. 2).pdf
+│   ├── [512]Codeforces Round #290 (Div. 1).pdf
+│   ├── [513]Rockethon 2015.pdf
+│   ├── [514]Codeforces Round #291 (Div. 2).pdf
+│   ├── [515]Codeforces Round #292 (Div. 2).pdf
+│   ├── [516]Codeforces Round #292 (Div. 1).pdf
+│   ├── [518]Codeforces Round #293 (Div. 2).pdf
+│   ├── [519]Codeforces Round #294 (Div. 2).pdf
+│   ├── [520]Codeforces Round #295 (Div. 2).pdf
+│   ├── [521]Codeforces Round #295 (Div. 1).pdf
+│   ├── [522]VK Cup 2015 - Qualification Round 1.pdf
+│   ├── [523]VK Cup 2015 - Qualification Round 2.pdf
+│   ├── [524]VK Cup 2015 - Round 1.pdf
+│   ├── [525]Codeforces Round #297 (Div. 2).pdf
+│   ├── [526]ZeptoLab Code Rush 2015.pdf
+│   ├── [527]Codeforces Round #296 (Div. 2).pdf
+│   ├── [528]Codeforces Round #296 (Div. 1).pdf
+│   ├── [529]VK Cup 2015 - Round 1 (unofficial online mirror, Div. 1 only).pdf
+│   ├── [530]VK Cup 2015 - Wild Card Round 1.pdf
+│   ├── [531]VK Cup 2015 - Wild Card Round 1 (Online Mirror).pdf
+│   ├── [532]VK Cup 2015 - Round 2.pdf
+│   ├── [533]VK Cup 2015 - Round 2 (unofficial online mirror, Div. 1 only).pdf
+│   ├── [534]Codeforces Round #298 (Div. 2).pdf
+│   ├── [535]Codeforces Round #299 (Div. 2).pdf
+│   ├── [536]Codeforces Round #299 (Div. 1).pdf
+│   ├── [537]VK Cup 2015 - Wild Card Round 2.pdf
+│   ├── [538]Codeforces Round #300.pdf
+│   ├── [540]Codeforces Round #301 (Div. 2).pdf
+│   ├── [541]VK Cup 2015 - Раунд 3.pdf
+│   ├── [542]VK Cup 2015 - Round 3 (unofficial online mirror, Div. 1 only).pdf
+│   ├── [543]Codeforces Round #302 (Div. 1).pdf
+│   ├── [544]Codeforces Round #302 (Div. 2).pdf
+│   ├── [545]Codeforces Round #303 (Div. 2).pdf
+│   ├── [546]Codeforces Round #304 (Div. 2).pdf
+│   ├── [547]Codeforces Round #305 (Div. 1).pdf
+│   ├── [548]Codeforces Round #305 (Div. 2).pdf
+│   ├── [549]Looksery Cup 2015.pdf
+│   ├── [550]Codeforces Round #306 (Div. 2).pdf
+│   ├── [551]Codeforces Round #307 (Div. 2).pdf
+│   ├── [552]Codeforces Round #308 (Div. 2).pdf
+│   ├── [553]Codeforces Round #309 (Div. 1).pdf
+│   ├── [554]Codeforces Round #309 (Div. 2).pdf
+│   ├── [555]Codeforces Round #310 (Div. 1).pdf
+│   ├── [556]Codeforces Round #310 (Div. 2).pdf
+│   ├── [557]Codeforces Round #311 (Div. 2).pdf
+│   ├── [558]Codeforces Round #312 (Div. 2).pdf
+│   ├── [559]Codeforces Round #313 (Div. 1).pdf
+│   ├── [560]Codeforces Round #313 (Div. 2).pdf
+│   ├── [561]VK Cup 2015 - Finals (Practice Round).pdf
+│   ├── [562]VK Cup 2015 - Finals.pdf
+│   ├── [566]VK Cup 2015 - Finals, online mirror.pdf
+│   ├── [567]Codeforces Round #Pi (Div. 2).pdf
+│   ├── [568]Codeforces Round #315 (Div. 1).pdf
+│   ├── [569]Codeforces Round #315 (Div. 2).pdf
+│   ├── [570]Codeforces Round #316 (Div. 2).pdf
+│   ├── [571]Codeforces Round #317 [AimFund Thanks-Round] (Div. 1).pdf
+│   ├── [572]Codeforces Round #317 [AimFund Thanks-Round] (Div. 2).pdf
+│   ├── [573]Codeforces Round #318 [RussianCodeCup Thanks-Round] (Div. 1).pdf
+│   ├── [574]Codeforces Round #318 [RussianCodeCup Thanks-Round] (Div. 2).pdf
+│   ├── [575]Bubble Cup 8 - Finals [Online Mirror].pdf
+│   ├── [576]Codeforces Round #319 (Div. 1).pdf
+│   ├── [577]Codeforces Round #319 (Div. 2).pdf
+│   ├── [578]Codeforces Round #320 (Div. 1) [Bayan Thanks-Round].pdf
+│   ├── [579]Codeforces Round #320 (Div. 2) [Bayan Thanks-Round].pdf
+│   ├── [580]Codeforces Round #321 (Div. 2).pdf
+│   ├── [581]Codeforces Round #322 (Div. 2).pdf
+│   ├── [582]Codeforces Round #323 (Div. 1).pdf
+│   ├── [583]Codeforces Round #323 (Div. 2).pdf
+│   ├── [584]Codeforces Round #324 (Div. 2).pdf
+│   ├── [585]Codeforces Round #325 (Div. 1).pdf
+│   ├── [586]Codeforces Round #325 (Div. 2).pdf
+│   ├── [587]Codeforces Round #326 (Div. 1).pdf
+│   ├── [588]Codeforces Round #326 (Div. 2).pdf
+│   ├── [589]2015-2016 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred).pdf
+│   ├── [590]Codeforces Round #327 (Div. 1).pdf
+│   ├── [591]Codeforces Round #327 (Div. 2).pdf
+│   ├── [592]Codeforces Round #328 (Div. 2).pdf
+│   ├── [593]Codeforces Round #329 (Div. 2).pdf
+│   ├── [594]Codeforces Round #330 (Div. 1).pdf
+│   ├── [595]Codeforces Round #330 (Div. 2).pdf
+│   ├── [596]Codeforces Round #331 (Div. 2).pdf
+│   ├── [597]Testing Round #12.pdf
+│   ├── [598]Educational Codeforces Round 1.pdf
+│   ├── [599]Codeforces Round #332 (Div. 2).pdf
+│   └── [600]Educational Codeforces Round 2.pdf
+├── [601-700]
+│   ├── [601]Codeforces Round #333 (Div. 1).pdf
+│   ├── [602]Codeforces Round #333 (Div. 2).pdf
+│   ├── [603]Codeforces Round #334 (Div. 1).pdf
+│   ├── [604]Codeforces Round #334 (Div. 2).pdf
+│   ├── [605]Codeforces Round #335 (Div. 1).pdf
+│   ├── [606]Codeforces Round #335 (Div. 2).pdf
+│   ├── [607]Codeforces Round #336 (Div. 1).pdf
+│   ├── [608]Codeforces Round #336 (Div. 2).pdf
+│   ├── [609]Educational Codeforces Round 3.pdf
+│   ├── [610]Codeforces Round #337 (Div. 2).pdf
+│   ├── [611]Good Bye 2015.pdf
+│   ├── [612]Educational Codeforces Round 4.pdf
+│   ├── [613]Codeforces Round #339 (Div. 1).pdf
+│   ├── [614]Codeforces Round #339 (Div. 2).pdf
+│   ├── [615]Codeforces Round #338 (Div. 2).pdf
+│   ├── [616]Educational Codeforces Round 5.pdf
+│   ├── [617]Codeforces Round #340 (Div. 2).pdf
+│   ├── [618]Wunder Fund Round 2016 (Div. 1 + Div. 2 combined).pdf
+│   ├── [620]Educational Codeforces Round 6.pdf
+│   ├── [621]Codeforces Round #341 (Div. 2).pdf
+│   ├── [622]Educational Codeforces Round 7.pdf
+│   ├── [623]AIM Tech Round (Div. 1).pdf
+│   ├── [624]AIM Tech Round (Div. 2).pdf
+│   ├── [625]Codeforces Round #342 (Div. 2).pdf
+│   ├── [626]8VC Venture Cup 2016 - Elimination Round.pdf
+│   ├── [627]8VC Venture Cup 2016 - Final Round.pdf
+│   ├── [628]Educational Codeforces Round 8.pdf
+│   ├── [629]Codeforces Round #343 (Div. 2).pdf
+│   ├── [630]Experimental Educational Round_ VolBIT Formulas Blitz.pdf
+│   ├── [631]Codeforces Round #344 (Div. 2).pdf
+│   ├── [632]Educational Codeforces Round 9.pdf
+│   ├── [633]Manthan, Codefest 16.pdf
+│   ├── [634]8VC Venture Cup 2016 - Final Round (Div. 1 Edition).pdf
+│   ├── [635]8VC Venture Cup 2016 - Final Round (Div. 2 Edition).pdf
+│   ├── [636]VeeRoute Marathon.pdf
+│   ├── [637]VK Cup 2016 - Qualification Round 1 (Russian-Speaking Only, for VK Cup Teams).pdf
+│   ├── [638]VK Cup 2016 - Qualification Round 2 (Russian-Speaking Only, for VK Cup Teams).pdf
+│   ├── [638]VK Cup 2016 - Qualification Round 2.pdf
+│   ├── [639]VK Cup 2016 - Round 1.pdf
+│   ├── [640]VK Cup 2016 - Wild Card Round 1.pdf
+│   ├── [641]VK Cup 2016 - Round 2.pdf
+│   ├── [642]VK Cup 2016 - Wild Card Round 2.pdf
+│   ├── [643]VK Cup 2016 - Round 3.pdf
+│   ├── [644]CROC 2016 - Qualification.pdf
+│   ├── [645]CROC 2016 - Elimination Round.pdf
+│   ├── [646]Технокубок 2016 - Ознакомительный Раунд 1.pdf
+│   ├── [647]Технокубок 2016 - Ознакомительный Раунд 2.pdf
+│   ├── [648]Технокубок 2016 - Отборочный Раунд 1.pdf
+│   ├── [649]Технокубок 2016 - Отборочный Раунд 2.pdf
+│   ├── [650]Codeforces Round #345 (Div. 1).pdf
+│   ├── [651]Codeforces Round #345 (Div. 2).pdf
+│   ├── [652]Educational Codeforces Round 10.pdf
+│   ├── [653]IndiaHacks 2016 - Online Edition (Div. 1 + Div. 2).pdf
+│   ├── [655]CROC 2016 - Elimination Round  (Rated Unofficial Edition).pdf
+│   ├── [656]April Fools Day Contest 2016.pdf
+│   ├── [657]VK Cup 2016 - Round 1 (Div.1 Edition).pdf
+│   ├── [658]VK Cup 2016 - Round 1 (Div. 2 Edition).pdf
+│   ├── [659]Codeforces Round #346 (Div. 2).pdf
+│   ├── [660]Educational Codeforces Round 11.pdf
+│   ├── [661]VK Cup 2016 - Wild Card Round 1 (Unofficial Open Online Mirror).pdf
+│   ├── [662]CROC 2016 - Final Round [Private, For Onsite Finalists Only].pdf
+│   ├── [663]Codeforces Round #347 (Div. 1).pdf
+│   ├── [664]Codeforces Round #347 (Div. 2).pdf
+│   ├── [665]Educational Codeforces Round 12.pdf
+│   ├── [666]Codeforces Round #349 (Div. 1).pdf
+│   ├── [667]Codeforces Round #349 (Div. 2).pdf
+│   ├── [668]Codeforces Round #348 (VK Cup 2016 Round 2, Div. 1 Edition).pdf
+│   ├── [669]Codeforces Round #348 (VK Cup 2016 Round 2, Div. 2 Edition).pdf
+│   ├── [670]Codeforces Round #350 (Div. 2).pdf
+│   ├── [671]Codeforces Round #352 (Div. 1).pdf
+│   ├── [672]Codeforces Round #352 (Div. 2).pdf
+│   ├── [673]Codeforces Round #351 (VK Cup 2016 Round 3, Div. 2 Edition).pdf
+│   ├── [674]Codeforces Round #351 (VK Cup 2016 Round 3, Div. 1 Edition).pdf
+│   ├── [675]Codeforces Round #353 (Div. 2).pdf
+│   ├── [676]Codeforces Round #354 (Div. 2).pdf
+│   ├── [677]Codeforces Round #355 (Div. 2).pdf
+│   ├── [678]Educational Codeforces Round 13.pdf
+│   ├── [679]Codeforces Round #356 (Div. 1).pdf
+│   ├── [680]Codeforces Round #356 (Div. 2).pdf
+│   ├── [681]Codeforces Round #357 (Div. 2).pdf
+│   ├── [682]Codeforces Round #358 (Div. 2).pdf
+│   ├── [683]Surprise Language Round #8.pdf
+│   ├── [684]Codeforces Marathon Round 1.pdf
+│   ├── [685]Codeforces Round #359 (Div. 1).pdf
+│   ├── [686]Codeforces Round #359 (Div. 2).pdf
+│   ├── [687]Codeforces Round #360 (Div. 1).pdf
+│   ├── [688]Codeforces Round #360 (Div. 2).pdf
+│   ├── [689]Codeforces Round #361 (Div. 2).pdf
+│   ├── [690]Helvetic Coding Contest 2016 online mirror (teams, unrated).pdf
+│   ├── [691]Educational Codeforces Round 14.pdf
+│   ├── [695]VK Cup 2016 - Finals.pdf
+│   ├── [696]Codeforces Round #362 (Div. 1).pdf
+│   ├── [697]Codeforces Round #362 (Div. 2).pdf
+│   ├── [698]Codeforces Round #363 (Div. 1).pdf
+│   ├── [699]Codeforces Round #363 (Div. 2).pdf
+│   └── [700]Codeforces Round #364 (Div. 1).pdf
+├── [701-800]
+│   ├── [701]Codeforces Round #364 (Div. 2).pdf
+│   ├── [702]Educational Codeforces Round 15.pdf
+│   ├── [703]Codeforces Round #365 (Div. 2).pdf
+│   ├── [704]Codeforces Round #366 (Div. 1).pdf
+│   ├── [705]Codeforces Round #366 (Div. 2).pdf
+│   ├── [706]Codeforces Round #367 (Div. 2).pdf
+│   ├── [707]Codeforces Round #368 (Div. 2).pdf
+│   ├── [708]AIM Tech Round 3 (Div. 1).pdf
+│   ├── [709]AIM Tech Round 3 (Div. 2).pdf
+│   ├── [710]Educational Codeforces Round 16.pdf
+│   ├── [711]Codeforces Round #369 (Div. 2).pdf
+│   ├── [712]Codeforces Round #370 (Div. 2).pdf
+│   ├── [713]Codeforces Round #371 (Div. 1).pdf
+│   ├── [714]Codeforces Round #371 (Div. 2).pdf
+│   ├── [715]Codeforces Round #372 (Div. 1).pdf
+│   ├── [716]Codeforces Round #372 (Div. 2).pdf
+│   ├── [717]Bubble Cup 9 - Finals [Online Mirror].pdf
+│   ├── [718]Codeforces Round #373 (Div. 1).pdf
+│   ├── [719]Codeforces Round #373 (Div. 2).pdf
+│   ├── [720]Russian Code Cup 2016 - Finals [Unofficial Mirror, Div. 1 Only Recommended].pdf
+│   ├── [721]Codeforces Round #374 (Div. 2).pdf
+│   ├── [722]Intel Code Challenge Elimination Round (Div.1 + Div.2, combined).pdf
+│   ├── [723]Codeforces Round #375 (Div. 2).pdf
+│   ├── [724]Intel Code Challenge Final Round (Div. 1 + Div. 2, Combined).pdf
+│   ├── [725]Canada Cup 2016.pdf
+│   ├── [727]Technocup 2017 - Elimination Round 1 (Unofficially Open for Everyone, Rated for Div. 2).pdf
+│   ├── [729]Technocup 2017 - Elimination Round 2.pdf
+│   ├── [730]2016-2017 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred).pdf
+│   ├── [731]Codeforces Round #376 (Div. 2).pdf
+│   ├── [732]Codeforces Round #377 (Div. 2).pdf
+│   ├── [733]Codeforces Round #378 (Div. 2).pdf
+│   ├── [734]Codeforces Round #379 (Div. 2).pdf
+│   ├── [735]Codeforces Round #382 (Div. 2).pdf
+│   ├── [736]Codeforces Round #382 (Div. 1).pdf
+│   ├── [737]Codeforces Round #380 (Div. 1, Rated, Based on Technocup 2017 - Elimination Round 2).pdf
+│   ├── [738]Codeforces Round #380 (Div. 2, Rated, Based on Technocup 2017 - Elimination Round 2).pdf
+│   ├── [739]Codeforces Round #381 (Div. 1).pdf
+│   ├── [740]Codeforces Round #381 (Div. 2).pdf
+│   ├── [741]Codeforces Round #383 (Div. 1).pdf
+│   ├── [742]Codeforces Round #383 (Div. 2).pdf
+│   ├── [743]Codeforces Round #384 (Div. 2).pdf
+│   ├── [744]Codeforces Round #385 (Div. 1).pdf
+│   ├── [745]Codeforces Round #385 (Div. 2).pdf
+│   ├── [746]Codeforces Round #386 (Div. 2).pdf
+│   ├── [747]Codeforces Round #387 (Div. 2).pdf
+│   ├── [748]Technocup 2017 - Elimination Round 3.pdf
+│   ├── [749]Codeforces Round #388 (Div. 2).pdf
+│   ├── [750]Good Bye 2016.pdf
+│   ├── [751]Технокубок 2017 - Ознакомительный Раунд 3.pdf
+│   ├── [752]Codeforces Round #389 (Div. 2, Rated, Based on Technocup 2017 - Elimination Round 3).pdf
+│   ├── [753]Testing Round #13.pdf
+│   ├── [754]Codeforces Round #390 (Div. 2).pdf
+│   ├── [755]8VC Venture Cup 2017 - Elimination Round.pdf
+│   ├── [756]8VC Venture Cup 2017 - Final Round.pdf
+│   ├── [757]Codecraft-17 and Codeforces Round #391 (Div. 1 + Div. 2, combined).pdf
+│   ├── [758]Codeforces Round #392 (Div. 2).pdf
+│   ├── [759]Codeforces Round #393 (Div. 1) (8VC Venture Cup 2017 - Final Round Div. 1 Edition).pdf
+│   ├── [760]Codeforces Round #393 (Div. 2) (8VC Venture Cup 2017 - Final Round Div. 2 Edition).pdf
+│   ├── [761]Codeforces Round #394 (Div. 2).pdf
+│   ├── [762]Educational Codeforces Round 17.pdf
+│   ├── [763]Codeforces Round #395 (Div. 1).pdf
+│   ├── [764]Codeforces Round #395 (Div. 2).pdf
+│   ├── [765]Codeforces Round #397 by Kaspersky Lab and Barcelona Bootcamp (Div. 1 + Div. 2 combined).pdf
+│   ├── [766]Codeforces Round #396 (Div. 2).pdf
+│   ├── [767]Codeforces Round #398 (Div. 2).pdf
+│   ├── [768]Divide by Zero 2017 and Codeforces Round #399 (Div. 1 + Div. 2, combined).pdf
+│   ├── [769]VK Cup 2017 - Квалификация 1.pdf
+│   ├── [770]VK Cup 2017 - Квалификация 2.pdf
+│   ├── [776]ICM Technex 2017 and Codeforces Round #400 (Div. 1 + Div. 2, combined).pdf
+│   ├── [777]Codeforces Round #401 (Div. 2).pdf
+│   ├── [778]Codeforces Round #402 (Div. 1).pdf
+│   ├── [779]Codeforces Round #402 (Div. 2).pdf
+│   ├── [780]Технокубок 2017 - Финал (только для онсайт-финалистов).pdf
+│   ├── [781]Codeforces Round #403 (Div. 1, based on Technocup 2017 Finals).pdf
+│   ├── [782]Codeforces Round #403 (Div. 2, based on Technocup 2017 Finals).pdf
+│   ├── [785]Codeforces Round #404 (Div. 2).pdf
+│   ├── [786]Codeforces Round #406 (Div. 1).pdf
+│   ├── [787]Codeforces Round #406 (Div. 2).pdf
+│   ├── [788]Codeforces Round #407 (Div. 1).pdf
+│   ├── [789]Codeforces Round #407 (Div. 2).pdf
+│   ├── [790]Codeforces Round #405 (rated, Div. 1, based on VK Cup 2017 Round 1).pdf
+│   ├── [791]Codeforces Round #405 (rated, Div. 2, based on VK Cup 2017 Round 1).pdf
+│   ├── [792]Educational Codeforces Round 18.pdf
+│   ├── [793]Tinkoff Challenge - Elimination Round.pdf
+│   ├── [795]VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror).pdf
+│   ├── [796]Codeforces Round #408 (Div. 2).pdf
+│   ├── [797]Educational Codeforces Round 19.pdf
+│   ├── [798]Codeforces Round #410 (Div. 2).pdf
+│   └── [800]Codeforces Round #409 (rated, Div. 1, based on VK Cup 2017 Round 2).pdf
+├── [801-900]
+│   ├── [801]Codeforces Round #409 (rated, Div. 2, based on VK Cup 2017 Round 2).pdf
+│   ├── [803]Educational Codeforces Round 20.pdf
+│   ├── [804]Codeforces Round #411 (Div. 1).pdf
+│   ├── [805]Codeforces Round #411 (Div. 2).pdf
+│   ├── [806]Codeforces Round #412 (rated, Div. 1, based on VK Cup 2017 Round 3).pdf
+│   ├── [807]Codeforces Round #412 (rated, Div. 2, base on VK Cup 2017 Round 3).pdf
+│   ├── [808]Educational Codeforces Round 21.pdf
+│   ├── [809]Codeforces Round #415 (Div. 1).pdf
+│   ├── [810]Codeforces Round #415 (Div. 2).pdf
+│   ├── [811]Codeforces Round #416 (Div. 2).pdf
+│   ├── [812]Codeforces Round #417 (Div. 2).pdf
+│   ├── [813]Educational Codeforces Round 22.pdf
+│   ├── [814]Codeforces Round #418 (Div. 2).pdf
+│   ├── [815]Codeforces Round #419 (Div. 1).pdf
+│   ├── [816]Codeforces Round #419 (Div. 2).pdf
+│   ├── [817]Educational Codeforces Round 23.pdf
+│   ├── [818]Educational Codeforces Round 24.pdf
+│   ├── [819]Codeforces Round #421 (Div. 1).pdf
+│   ├── [820]Codeforces Round #421 (Div. 2).pdf
+│   ├── [821]Codeforces Round #420 (Div. 2).pdf
+│   ├── [822]Codeforces Round #422 (Div. 2).pdf
+│   ├── [823]VK Cup 2017 - Finals.pdf
+│   ├── [827]Codeforces Round #423 (Div. 1, rated, based on VK Cup Finals).pdf
+│   ├── [828]Codeforces Round #423 (Div. 2, rated, based on VK Cup Finals).pdf
+│   ├── [830]Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals).pdf
+│   ├── [831]Codeforces Round #424 (Div. 2, rated, based on VK Cup Finals).pdf
+│   ├── [832]Codeforces Round #425 (Div. 2).pdf
+│   ├── [833]Codeforces Round #426 (Div. 1).pdf
+│   ├── [834]Codeforces Round #426 (Div. 2).pdf
+│   ├── [835]Codeforces Round #427 (Div. 2).pdf
+│   ├── [837]Educational Codeforces Round 26.pdf
+│   ├── [838]IndiaHacks 2nd Elimination 2017 (unofficial, unrated mirror, ICPC rules).pdf
+│   ├── [839]Codeforces Round #428 (Div. 2).pdf
+│   ├── [840]Codeforces Round #429 (Div. 1).pdf
+│   ├── [841]Codeforces Round #429 (Div. 2).pdf
+│   ├── [842]Codeforces Round #430 (Div. 2).pdf
+│   ├── [843]AIM Tech Round 4 (Div. 1).pdf
+│   ├── [844]AIM Tech Round 4 (Div. 2).pdf
+│   ├── [845]Educational Codeforces Round 27.pdf
+│   ├── [846]Educational Codeforces Round 28.pdf
+│   ├── [848]Codeforces Round #431 (Div. 1).pdf
+│   ├── [849]Codeforces Round #431 (Div. 2).pdf
+│   ├── [850]Codeforces Round #432 (Div. 1, based on IndiaHacks Final Round 2017).pdf
+│   ├── [851]Codeforces Round #432 (Div. 2, based on IndiaHacks Final Round 2017).pdf
+│   ├── [852]Bubble Cup X - Finals [Online Mirror].pdf
+│   ├── [853]Codeforces Round #433 (Div. 1, based on Olympiad of Metropolises).pdf
+│   ├── [854]Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises).pdf
+│   ├── [856]Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed].pdf
+│   ├── [858]Технокубок 2018 - Отборочный Раунд 1.pdf
+│   ├── [859]MemSQL Start[c]UP 3.0 - Round 1.pdf
+│   ├── [860]Codeforces Round #434 (Div. 1, based on Technocup 2018 Elimination Round 1).pdf
+│   ├── [861]Codeforces Round #434 (Div. 2, based on Technocup 2018 Elimination Round 1).pdf
+│   ├── [862]Codeforces Round #435 (Div. 2).pdf
+│   ├── [864]Codeforces Round #436 (Div. 2).pdf
+│   ├── [866]MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round #437 (Div. 1).pdf
+│   ├── [867]Codeforces Round #437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2).pdf
+│   ├── [868]Codeforces Round #438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined).pdf
+│   ├── [869]Codeforces Round #439 (Div. 2).pdf
+│   ├── [871]Codeforces Round #440 (Div. 1, based on Technocup 2018 Elimination Round 2).pdf
+│   ├── [872]Codeforces Round #440 (Div. 2, based on Technocup 2018 Elimination Round 2).pdf
+│   ├── [875]Codeforces Round #441 (Div. 1, by Moscow Team Olympiad).pdf
+│   ├── [876]Codeforces Round #441 (Div. 2, by Moscow Team Olympiad).pdf
+│   ├── [877]Codeforces Round #442 (Div. 2).pdf
+│   ├── [878]Codeforces Round #443 (Div. 1).pdf
+│   ├── [879]Codeforces Round #443 (Div. 2).pdf
+│   ├── [883]2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred).pdf
+│   ├── [884]Educational Codeforces Round 31.pdf
+│   ├── [887]Codeforces Round #444 (Div. 2).pdf
+│   ├── [888]Educational Codeforces Round 32.pdf
+│   ├── [889]Codeforces Round #445 (Div. 1, based on Technocup 2018 Elimination Round 3).pdf
+│   ├── [890]Codeforces Round #445 (Div. 2, based on Technocup 2018 Elimination Round 3).pdf
+│   ├── [891]Codeforces Round #446 (Div. 1).pdf
+│   ├── [892]Codeforces Round #446 (Div. 2).pdf
+│   ├── [893]Educational Codeforces Round 33 (Rated for Div. 2).pdf
+│   ├── [894]Codeforces Round #447 (Div. 2).pdf
+│   ├── [895]Codeforces Round #448 (Div. 2).pdf
+│   ├── [896]Codeforces Round #449 (Div. 1).pdf
+│   ├── [897]Codeforces Round #449 (Div. 2).pdf
+│   ├── [898]Codeforces Round #451 (Div. 2).pdf
+│   ├── [899]Codeforces Round #452 (Div. 2).pdf
+│   └── [900]Codeforces Round #450 (Div. 2).pdf
+├── [901-1000]
+│   ├── [1000]Educational Codeforces Round 46 (Rated for Div. 2).pdf
+│   ├── [901]Codeforces Round #453 (Div. 1).pdf
+│   ├── [902]Codeforces Round #453 (Div. 2).pdf
+│   ├── [903]Educational Codeforces Round 34 (Rated for Div. 2).pdf
+│   ├── [904]Технокубок 2018 - Отборочный Раунд 4.pdf
+│   ├── [906]Codeforces Round #454 (Div. 1, based on Technocup 2018 Elimination Round 4).pdf
+│   ├── [907]Codeforces Round #454 (Div. 2, based on Technocup 2018 Elimination Round 4).pdf
+│   ├── [908]Good Bye 2017.pdf
+│   ├── [909]Codeforces Round #455 (Div. 2).pdf
+│   ├── [910]Testing Round #14 (Unrated).pdf
+│   ├── [911]Educational Codeforces Round 35 (Rated for Div. 2).pdf
+│   ├── [912]Codeforces Round #456 (Div. 2).pdf
+│   ├── [913]Hello 2018.pdf
+│   ├── [914]Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined).pdf
+│   ├── [915]Educational Codeforces Round 36 (Rated for Div. 2).pdf
+│   ├── [916]Codeforces Round #457 (Div. 2).pdf
+│   ├── [917]Codeforces Round #459 (Div. 1).pdf
+│   ├── [918]Codeforces Round #459 (Div. 2).pdf
+│   ├── [919]Codeforces Round #460 (Div. 2).pdf
+│   ├── [920]Educational Codeforces Round 37 (Rated for Div. 2).pdf
+│   ├── [921]AIM Tech Mini Marathon 1.pdf
+│   ├── [922]Codeforces Round #461 (Div. 2).pdf
+│   ├── [923]VK Cup 2018 - Round 1.pdf
+│   ├── [924]VK Cup 2018 - Round 2.pdf
+│   ├── [925]VK Cup 2018 - Round 3.pdf
+│   ├── [926]VK Cup 2018 - Wild-card Round 1.pdf
+│   ├── [927]VK Cup 2018 - Wild-card Round 2.pdf
+│   ├── [928]VK Cup 2018 - 袣胁邪谢懈褎懈泻邪褑懈褟 1.pdf
+│   ├── [929]VK Cup 2018 - 袣胁邪谢懈褎懈泻邪褑懈褟 2.pdf
+│   ├── [930]Codeforces Round #468 (Div. 1, based on Technocup 2018 Final Round).pdf
+│   ├── [931]Codeforces Round #468 (Div. 2, based on Technocup 2018 Final Round).pdf
+│   ├── [932]ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined).pdf
+│   ├── [933]Codeforces Round #462 (Div. 1).pdf
+│   ├── [934]Codeforces Round #462 (Div. 2).pdf
+│   ├── [935]Codeforces Round #465 (Div. 2).pdf
+│   ├── [936]Codeforces Round #467 (Div. 1).pdf
+│   ├── [937]Codeforces Round #467 (Div. 2).pdf
+│   ├── [938]Educational Codeforces Round 38 (Rated for Div. 2).pdf
+│   ├── [939]Codeforces Round #464 (Div. 2).pdf
+│   ├── [940]Codeforces Round #466 (Div. 2).pdf
+│   ├── [944]孝械褏薪芯泻褍斜芯泻 2018 - 肖懈薪邪谢 (褌芯谢褜泻芯 写谢褟 芯薪褋邪泄褌-褎懈薪邪谢懈褋褌芯胁).pdf
+│   ├── [946]Educational Codeforces Round 39 (Rated for Div. 2).pdf
+│   ├── [947]Codeforces Round #470 (rated, Div. 1, based on VK Cup 2018 Round 1).pdf
+│   ├── [948]Codeforces Round #470 (rated, Div. 2, based on VK Cup 2018 Round 1).pdf
+│   ├── [949]Codeforces Round #469 (Div. 1).pdf
+│   ├── [950]Codeforces Round #469 (Div. 2).pdf
+│   ├── [952]April Fools Contest 2018.pdf
+│   ├── [953]VK Cup 2018 - Wild-card Round 1 (unofficial unrated mirror).pdf
+│   ├── [954]Educational Codeforces Round 40 (Rated for Div. 2).pdf
+│   ├── [955]Codeforces Round #471 (Div. 2).pdf
+│   ├── [956]Codeforces Round #472 (rated, Div. 1, based on VK Cup 2018 Round 2).pdf
+│   ├── [957]Codeforces Round #472 (rated, Div. 2, based on VK Cup 2018 Round 2).pdf
+│   ├── [958]Helvetic Coding Contest 2018 online mirror (teams allowed, unrated).pdf
+│   ├── [959]Codeforces Round #473 (Div. 2).pdf
+│   ├── [960]Divide by Zero 2018 and Codeforces Round #474 (Div. 1 + Div. 2, combined).pdf
+│   ├── [961]Educational Codeforces Round 41 (Rated for Div. 2).pdf
+│   ├── [962]Educational Codeforces Round 42 (Rated for Div. 2).pdf
+│   ├── [963]Tinkoff Internship Warmup Round 2018 and Codeforces Round #475 (Div. 1).pdf
+│   ├── [964]Tinkoff Internship Warmup Round 2018 and Codeforces Round #475 (Div. 2).pdf
+│   ├── [965]Codeforces Round #476 (Div. 2) [Thanks, Telegram!].pdf
+│   ├── [966]Codeforces Round #477 (rated, Div. 1, based on VK Cup 2018 Round 3).pdf
+│   ├── [967]Codeforces Round #477 (rated, Div. 2, based on VK Cup 2018 Round 3).pdf
+│   ├── [975]Codeforces Round #478 (Div. 2).pdf
+│   ├── [976]Educational Codeforces Round 43 (Rated for Div. 2).pdf
+│   ├── [977]Codeforces Round #479 (Div. 3).pdf
+│   ├── [978]Codeforces Round #481 (Div. 3).pdf
+│   ├── [979]Codeforces Round #482 (Div. 2).pdf
+│   ├── [980]Codeforces Round #480 (Div. 2).pdf
+│   ├── [981]Avito Code Challenge 2018.pdf
+│   ├── [982]Codeforces Round #484 (Div. 2).pdf
+│   ├── [983]Codeforces Round #483 (Div. 1) [Thanks, Botan Investments and Victor Shaburov!].pdf
+│   ├── [984]Codeforces Round #483 (Div. 2) [Thanks, Botan Investments and Victor Shaburov!].pdf
+│   ├── [985]Educational Codeforces Round 44 (Rated for Div. 2).pdf
+│   ├── [986]Codeforces Round #485 (Div. 1).pdf
+│   ├── [987]Codeforces Round #485 (Div. 2).pdf
+│   ├── [988]Codeforces Round #486 (Div. 3).pdf
+│   ├── [989]Codeforces Round #487 (Div. 2).pdf
+│   ├── [990]Educational Codeforces Round 45 (Rated for Div. 2).pdf
+│   ├── [991]Codeforces Round #491 (Div. 2).pdf
+│   ├── [992]Codeforces Round #489 (Div. 2).pdf
+│   ├── [993]Codeforces Round #488 by NEAR (Div. 1).pdf
+│   ├── [994]Codeforces Round #488 by NEAR (Div. 2).pdf
+│   ├── [995]Codeforces Round #492 (Div. 1) [Thanks, uDebug!].pdf
+│   ├── [996]Codeforces Round #492 (Div. 2) [Thanks, uDebug!].pdf
+│   ├── [997]Codeforces Round #493 (Div. 1).pdf
+│   ├── [998]Codeforces Round #493 (Div. 2).pdf
+│   └── [999]Codeforces Round #490 (Div. 3).pdf
+├── list.txt
+└── list1.txt
+
+18 directories, 1588 files
